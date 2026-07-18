@@ -1,0 +1,443 @@
+Organisation Name,Datafeed ID,% AVL to Timetables feed matching score,Latest matching report URL
+Delaine Buses,681,80.0,https://publish.bus-data.dft.gov.uk/org/28/dataset/avl/681/download-matching-report/
+Hams Travel,684,56.0,https://publish.bus-data.dft.gov.uk/org/78/dataset/avl/684/download-matching-report/
+Arriva UK Bus,705,100.0,https://publish.bus-data.dft.gov.uk/org/63/dataset/avl/705/download-matching-report/
+Arriva UK Bus,709,98.0,https://publish.bus-data.dft.gov.uk/org/63/dataset/avl/709/download-matching-report/
+Arriva UK Bus,710,99.0,https://publish.bus-data.dft.gov.uk/org/63/dataset/avl/710/download-matching-report/
+Arriva UK Bus,712,98.0,https://publish.bus-data.dft.gov.uk/org/63/dataset/avl/712/download-matching-report/
+Metroline Travel,738,,
+York Pullman Bus Company,781,100.0,https://publish.bus-data.dft.gov.uk/org/254/dataset/avl/781/download-matching-report/
+Ambassador Travel,795,100.0,https://publish.bus-data.dft.gov.uk/org/199/dataset/avl/795/download-matching-report/
+Tyrers Coaches,833,86.0,https://publish.bus-data.dft.gov.uk/org/220/dataset/avl/833/download-matching-report/
+Border Bus,862,99.0,https://publish.bus-data.dft.gov.uk/org/46/dataset/avl/862/download-matching-report/
+Lynx,640,94.0,https://publish.bus-data.dft.gov.uk/org/33/dataset/avl/640/download-matching-report/
+E Stott & Sons Ltd,937,71.0,https://publish.bus-data.dft.gov.uk/org/287/dataset/avl/937/download-matching-report/
+CT4N Ltd,938,100.0,https://publish.bus-data.dft.gov.uk/org/224/dataset/avl/938/download-matching-report/
+Suffolk Norse,1057,,
+Henry Cooper Coaches,1070,,
+Red Eagle,1095,72.0,https://publish.bus-data.dft.gov.uk/org/255/dataset/avl/1095/download-matching-report/
+DRM Coaches,1154,27.0,https://publish.bus-data.dft.gov.uk/org/31/dataset/avl/1154/download-matching-report/
+tallyho coaches,1187,77.0,https://publish.bus-data.dft.gov.uk/org/227/dataset/avl/1187/download-matching-report/
+Bullocks Coaches,1203,,
+Phoenix Taxis & Minicoaches,1209,92.0,https://publish.bus-data.dft.gov.uk/org/565/dataset/avl/1209/download-matching-report/
+Axe Valley Mini Travel,1253,16.0,https://publish.bus-data.dft.gov.uk/org/222/dataset/avl/1253/download-matching-report/
+Finches,1305,,
+LMS Travel,1312,96.0,https://publish.bus-data.dft.gov.uk/org/168/dataset/avl/1312/download-matching-report/
+Roberts Travel Group,1330,53.0,https://publish.bus-data.dft.gov.uk/org/153/dataset/avl/1330/download-matching-report/
+OTS,1381,49.0,https://publish.bus-data.dft.gov.uk/org/495/dataset/avl/1381/download-matching-report/
+Redline Buses,1388,63.0,https://publish.bus-data.dft.gov.uk/org/112/dataset/avl/1388/download-matching-report/
+Go Goodwins Coaches Ltd,1431,,
+Brylaine Travel,1436,91.0,https://publish.bus-data.dft.gov.uk/org/89/dataset/avl/1436/download-matching-report/
+Stringers Pontefract Motorways,1587,,
+Hopleys Coaches,1610,100.0,https://publish.bus-data.dft.gov.uk/org/478/dataset/avl/1610/download-matching-report/
+Jim Hughes Coaches,1674,78.0,https://publish.bus-data.dft.gov.uk/org/289/dataset/avl/1674/download-matching-report/
+Stagecoach,1692,100.0,https://publish.bus-data.dft.gov.uk/org/15/dataset/avl/1692/download-matching-report/
+Stagecoach,1695,95.0,https://publish.bus-data.dft.gov.uk/org/15/dataset/avl/1695/download-matching-report/
+Kirkby Lonsdale Coaches,1739,74.0,https://publish.bus-data.dft.gov.uk/org/210/dataset/avl/1739/download-matching-report/
+Cumbria Classic Coaches,1750,,
+Hattons Transport Ltd,1789,46.0,https://publish.bus-data.dft.gov.uk/org/64/dataset/avl/1789/download-matching-report/
+Landflight,1792,76.0,https://publish.bus-data.dft.gov.uk/org/174/dataset/avl/1792/download-matching-report/
+Huyton Travel,1793,93.0,https://publish.bus-data.dft.gov.uk/org/555/dataset/avl/1793/download-matching-report/
+Marshalls of Sutton on Trent,1814,,
+Hodgson Coach Operators,1851,9.0,https://publish.bus-data.dft.gov.uk/org/527/dataset/avl/1851/download-matching-report/
+Select Bus Services,1982,76.0,https://publish.bus-data.dft.gov.uk/org/23/dataset/avl/1982/download-matching-report/
+Stanley Travel,2063,0.0,https://publish.bus-data.dft.gov.uk/org/574/dataset/avl/2063/download-matching-report/
+Reays Coaches,2064,,
+Travel Cornwall,2285,100.0,https://publish.bus-data.dft.gov.uk/org/519/dataset/avl/2285/download-matching-report/
+Littles Travel,2308,92.0,https://publish.bus-data.dft.gov.uk/org/195/dataset/avl/2308/download-matching-report/
+Dartline Coaches,2392,,
+Olympia Travel UK ltd,2483,,
+Filers Travel Limited,2492,,
+Banga Buses,2519,0.0,https://publish.bus-data.dft.gov.uk/org/47/dataset/avl/2519/download-matching-report/
+NBM Hire,2598,,
+Nick Maddy Coaches,2731,22.0,https://publish.bus-data.dft.gov.uk/org/70/dataset/avl/2731/download-matching-report/
+A2B Travel (UK) Limited,2818,,
+Travel Masters,2837,0.0,https://publish.bus-data.dft.gov.uk/org/580/dataset/avl/2837/download-matching-report/
+Weardale Motor Services,2860,0.0,https://publish.bus-data.dft.gov.uk/org/583/dataset/avl/2860/download-matching-report/
+Torbay Buses,2886,2.0,https://publish.bus-data.dft.gov.uk/org/335/dataset/avl/2886/download-matching-report/
+Libra Travel,2888,89.0,https://publish.bus-data.dft.gov.uk/org/484/dataset/avl/2888/download-matching-report/
+First Bus,699,70.0,https://publish.bus-data.dft.gov.uk/org/16/dataset/avl/699/download-matching-report/
+First Bus,694,98.0,https://publish.bus-data.dft.gov.uk/org/16/dataset/avl/694/download-matching-report/
+Al's Coaches,3138,67.0,https://publish.bus-data.dft.gov.uk/org/535/dataset/avl/3138/download-matching-report/
+Viking Coaches (Heywood),3222,,
+Blueworks Taxis Ltd,3279,,
+Yeomans Travel,3334,90.0,https://publish.bus-data.dft.gov.uk/org/192/dataset/avl/3334/download-matching-report/
+Blackpool Transport,3349,90.0,https://publish.bus-data.dft.gov.uk/org/29/dataset/avl/3349/download-matching-report/
+First Bus,2920,92.0,https://publish.bus-data.dft.gov.uk/org/16/dataset/avl/2920/download-matching-report/
+Glen Valley Tours,3410,0.0,https://publish.bus-data.dft.gov.uk/org/704/dataset/avl/3410/download-matching-report/
+Linden Holdings (Devon) Ltd,3424,18.0,https://publish.bus-data.dft.gov.uk/org/726/dataset/avl/3424/download-matching-report/
+Cotswold Green,3439,0.0,https://publish.bus-data.dft.gov.uk/org/334/dataset/avl/3439/download-matching-report/
+Western Dales Bus,3566,,
+Frome Bus,3587,12.0,https://publish.bus-data.dft.gov.uk/org/470/dataset/avl/3587/download-matching-report/
+Vision Bus,3605,12.0,https://publish.bus-data.dft.gov.uk/org/582/dataset/avl/3605/download-matching-report/
+Cumfybus,3607,58.0,https://publish.bus-data.dft.gov.uk/org/4/dataset/avl/3607/download-matching-report/
+Chalkwell,3609,71.0,https://publish.bus-data.dft.gov.uk/org/398/dataset/avl/3609/download-matching-report/
+Atlantic Travel,3610,,
+Wright Bros Coaches,3617,,
+Kevs Cars & Coaches,3640,98.0,https://publish.bus-data.dft.gov.uk/org/164/dataset/avl/3640/download-matching-report/
+Belle Vue,3641,100.0,https://publish.bus-data.dft.gov.uk/org/537/dataset/avl/3641/download-matching-report/
+Hollinshead Coaches,3645,,
+TK Travel,3647,80.0,https://publish.bus-data.dft.gov.uk/org/410/dataset/avl/3647/download-matching-report/
+Marshalls of Sutton on Trent,3650,100.0,https://publish.bus-data.dft.gov.uk/org/269/dataset/avl/3650/download-matching-report/
+Coachstyle,3683,,
+Beeline Coaches,3684,,
+Nu-Venture,3688,66.0,https://publish.bus-data.dft.gov.uk/org/324/dataset/avl/3688/download-matching-report/
+Fowlers Travel,3695,100.0,https://publish.bus-data.dft.gov.uk/org/94/dataset/avl/3695/download-matching-report/
+Coventry Minibuses,3806,100.0,https://publish.bus-data.dft.gov.uk/org/709/dataset/avl/3806/download-matching-report/
+Go-Ahead,788,28.0,https://publish.bus-data.dft.gov.uk/org/10/dataset/avl/788/download-matching-report/
+Go-Ahead,786,57.0,https://publish.bus-data.dft.gov.uk/org/10/dataset/avl/786/download-matching-report/
+HCT Group,3810,,
+Sanders Coaches,4020,66.0,https://publish.bus-data.dft.gov.uk/org/185/dataset/avl/4020/download-matching-report/
+Bayliss Executive Travel,4025,100.0,https://publish.bus-data.dft.gov.uk/org/419/dataset/avl/4025/download-matching-report/
+Station Coaches,4254,50.0,https://publish.bus-data.dft.gov.uk/org/385/dataset/avl/4254/download-matching-report/
+Rooster Bus Ltd,4323,0.0,https://publish.bus-data.dft.gov.uk/org/799/dataset/avl/4323/download-matching-report/
+Jacksons of Silsden,4445,0.0,https://publish.bus-data.dft.gov.uk/org/557/dataset/avl/4445/download-matching-report/
+Country Bus,4696,36.0,https://publish.bus-data.dft.gov.uk/org/65/dataset/avl/4696/download-matching-report/
+Lawson's of Corby,4711,,
+Eurocoaches Ltd,4731,79.0,https://publish.bus-data.dft.gov.uk/org/465/dataset/avl/4731/download-matching-report/
+The Big Lemon CIC,4801,0.0,https://publish.bus-data.dft.gov.uk/org/228/dataset/avl/4801/download-matching-report/
+Arriva UK Bus,713,97.0,https://publish.bus-data.dft.gov.uk/org/63/dataset/avl/713/download-matching-report/
+Arriva UK Bus,711,99.0,https://publish.bus-data.dft.gov.uk/org/63/dataset/avl/711/download-matching-report/
+Arriva UK Bus,704,87.0,https://publish.bus-data.dft.gov.uk/org/63/dataset/avl/704/download-matching-report/
+Arriva UK Bus,690,99.0,https://publish.bus-data.dft.gov.uk/org/63/dataset/avl/690/download-matching-report/
+Dents Coaches,4896,100.0,https://publish.bus-data.dft.gov.uk/org/92/dataset/avl/4896/download-matching-report/
+Holmeswood Coaches Ltd,4901,,
+Holmeswood Coaches Ltd,5048,39.0,https://publish.bus-data.dft.gov.uk/org/77/dataset/avl/5048/download-matching-report/
+Roselyn Coaches,5152,,
+Roselyn Coaches,5234,,
+Horseman Coaches,5342,,
+Lords Travel,5439,0.0,https://publish.bus-data.dft.gov.uk/org/181/dataset/avl/5439/download-matching-report/
+Thornes Independent Ltd,5459,50.0,https://publish.bus-data.dft.gov.uk/org/393/dataset/avl/5459/download-matching-report/
+Carlone Buses,5867,89.0,https://publish.bus-data.dft.gov.uk/org/232/dataset/avl/5867/download-matching-report/
+Langston & Tasker,6005,100.0,https://publish.bus-data.dft.gov.uk/org/253/dataset/avl/6005/download-matching-report/
+Herberts Travel,6013,,
+Stantons of Stoke,6014,,
+Coatham Coaches,2506,,
+A & M Group - Flexibus,6033,100.0,https://publish.bus-data.dft.gov.uk/org/50/dataset/avl/6033/download-matching-report/
+Seaford and District Motor Services Ltd,6112,,
+Falcon Buses,870,97.0,https://publish.bus-data.dft.gov.uk/org/237/dataset/avl/870/download-matching-report/
+First Bus London,6128,,
+Ron W Dew & Son Ltd,6184,100.0,https://publish.bus-data.dft.gov.uk/org/178/dataset/avl/6184/download-matching-report/
+Compass Travel,6198,97.0,https://publish.bus-data.dft.gov.uk/org/291/dataset/avl/6198/download-matching-report/
+Faresaver Buses,6382,92.0,https://publish.bus-data.dft.gov.uk/org/86/dataset/avl/6382/download-matching-report/
+Shoreline Suncruisers Ltd,6383,,
+Felix Taxis & Co.,6500,100.0,https://publish.bus-data.dft.gov.uk/org/201/dataset/avl/6500/download-matching-report/
+Black Cat Travel Ltd,6532,0.0,https://publish.bus-data.dft.gov.uk/org/894/dataset/avl/6532/download-matching-report/
+Panther Travel,6688,,
+South West Coaches,6815,37.0,https://publish.bus-data.dft.gov.uk/org/507/dataset/avl/6815/download-matching-report/
+Ashcroft Travel,6816,86.0,https://publish.bus-data.dft.gov.uk/org/589/dataset/avl/6816/download-matching-report/
+Vale Travel,6817,,
+GO-Coach Hire Ltd,6979,98.0,https://publish.bus-data.dft.gov.uk/org/329/dataset/avl/6979/download-matching-report/
+Safeguard Coaches,7007,98.0,https://publish.bus-data.dft.gov.uk/org/242/dataset/avl/7007/download-matching-report/
+Stagecoach,7035,99.0,https://publish.bus-data.dft.gov.uk/org/15/dataset/avl/7035/download-matching-report/
+Mikro coaches,7166,0.0,https://publish.bus-data.dft.gov.uk/org/798/dataset/avl/7166/download-matching-report/
+Beeline Coaches,7185,,
+Greenslades Tours (Exeter) Ltd,7292,100.0,https://publish.bus-data.dft.gov.uk/org/895/dataset/avl/7292/download-matching-report/
+TM Travel Ltd,7346,86.0,https://publish.bus-data.dft.gov.uk/org/69/dataset/avl/7346/download-matching-report/
+Walsall Community Transport,7385,,
+Daniel Trent TA Dan's Coach Travel,7454,,
+York Pullman Bus Company,7501,,
+Taw & Torridge Coaches Ltd,7576,78.0,https://publish.bus-data.dft.gov.uk/org/512/dataset/avl/7576/download-matching-report/
+Reptons Coaches,7654,47.0,https://publish.bus-data.dft.gov.uk/org/240/dataset/avl/7654/download-matching-report/
+Transdev,7680,99.0,https://publish.bus-data.dft.gov.uk/org/2/dataset/avl/7680/download-matching-report/
+Transdev,7681,98.0,https://publish.bus-data.dft.gov.uk/org/2/dataset/avl/7681/download-matching-report/
+Cuckmere Buses,7717,,
+Go-Ahead,7719,97.0,https://publish.bus-data.dft.gov.uk/org/10/dataset/avl/7719/download-matching-report/
+Go-Ahead,7720,86.0,https://publish.bus-data.dft.gov.uk/org/10/dataset/avl/7720/download-matching-report/
+Go-Ahead,7721,27.0,https://publish.bus-data.dft.gov.uk/org/10/dataset/avl/7721/download-matching-report/
+Warrington’s Own Buses,7762,95.0,https://publish.bus-data.dft.gov.uk/org/26/dataset/avl/7762/download-matching-report/
+Grant Palmer,7767,0.0,https://publish.bus-data.dft.gov.uk/org/108/dataset/avl/7767/download-matching-report/
+Redwoods Travel,7798,50.0,https://publish.bus-data.dft.gov.uk/org/223/dataset/avl/7798/download-matching-report/
+Charltons,7835,,
+First Bus,7836,99.0,https://publish.bus-data.dft.gov.uk/org/16/dataset/avl/7836/download-matching-report/
+First Bus,7842,98.0,https://publish.bus-data.dft.gov.uk/org/16/dataset/avl/7842/download-matching-report/
+Sullivan Buses,7858,,
+PC Coaches of Lincoln,7861,52.0,https://publish.bus-data.dft.gov.uk/org/100/dataset/avl/7861/download-matching-report/
+Kinch Buses,7865,100.0,https://publish.bus-data.dft.gov.uk/org/194/dataset/avl/7865/download-matching-report/
+Rotala Group of Companies,7869,92.0,https://publish.bus-data.dft.gov.uk/org/53/dataset/avl/7869/download-matching-report/
+Rotala Group of Companies,7870,76.0,https://publish.bus-data.dft.gov.uk/org/53/dataset/avl/7870/download-matching-report/
+Hunts Coaches,7873,70.0,https://publish.bus-data.dft.gov.uk/org/98/dataset/avl/7873/download-matching-report/
+White Bus,7883,97.0,https://publish.bus-data.dft.gov.uk/org/246/dataset/avl/7883/download-matching-report/
+First Bus,7889,96.0,https://publish.bus-data.dft.gov.uk/org/16/dataset/avl/7889/download-matching-report/
+Sleafordian,7901,95.0,https://publish.bus-data.dft.gov.uk/org/101/dataset/avl/7901/download-matching-report/
+Blackburn Private Hire,7918,,
+Coastliner Buses,7920,10.0,https://publish.bus-data.dft.gov.uk/org/300/dataset/avl/7920/download-matching-report/
+Grayline Coaches,7922,,
+Transport Connect,7924,40.0,https://publish.bus-data.dft.gov.uk/org/102/dataset/avl/7924/download-matching-report/
+trentbarton,7949,70.0,https://publish.bus-data.dft.gov.uk/org/9/dataset/avl/7949/download-matching-report/
+Go-Ahead,7996,97.0,https://publish.bus-data.dft.gov.uk/org/10/dataset/avl/7996/download-matching-report/
+Oakleys Coaches,8012,0.0,https://publish.bus-data.dft.gov.uk/org/493/dataset/avl/8012/download-matching-report/
+Craig of Campbeltown Ltd,8022,9.0,https://publish.bus-data.dft.gov.uk/org/76/dataset/avl/8022/download-matching-report/
+Wright Bros Coaches,8026,,
+A Lyles & Son,8032,37.0,https://publish.bus-data.dft.gov.uk/org/292/dataset/avl/8032/download-matching-report/
+AC Williams,8039,0.0,https://publish.bus-data.dft.gov.uk/org/104/dataset/avl/8039/download-matching-report/
+Minsterley Motors Ltd,8042,61.0,https://publish.bus-data.dft.gov.uk/org/140/dataset/avl/8042/download-matching-report/
+Newport Transport Ltd,8048,98.0,https://publish.bus-data.dft.gov.uk/org/696/dataset/avl/8048/download-matching-report/
+L & G Coaches,8053,80.0,https://publish.bus-data.dft.gov.uk/org/559/dataset/avl/8053/download-matching-report/
+Tanat Valley Coaches,8056,45.0,https://publish.bus-data.dft.gov.uk/org/317/dataset/avl/8056/download-matching-report/
+Sargeants Bros. Coaches Ltd,8069,72.0,https://publish.bus-data.dft.gov.uk/org/139/dataset/avl/8069/download-matching-report/
+Go-Ahead,8071,90.0,https://publish.bus-data.dft.gov.uk/org/10/dataset/avl/8071/download-matching-report/
+Bennetts Travel,8078,,
+Ellenvale Coaches,8080,,
+Ensign Bus,8082,96.0,https://publish.bus-data.dft.gov.uk/org/18/dataset/avl/8082/download-matching-report/
+Phil Haines Coaches,8113,0.0,https://publish.bus-data.dft.gov.uk/org/97/dataset/avl/8113/download-matching-report/
+Cardinal Buses,8131,100.0,https://publish.bus-data.dft.gov.uk/org/231/dataset/avl/8131/download-matching-report/
+Sullivan Buses,8136,39.0,https://publish.bus-data.dft.gov.uk/org/244/dataset/avl/8136/download-matching-report/
+Notts & Derby Traction Co. Limited,8140,82.0,https://publish.bus-data.dft.gov.uk/org/74/dataset/avl/8140/download-matching-report/
+Regent Coaches,8158,98.0,https://publish.bus-data.dft.gov.uk/org/82/dataset/avl/8158/download-matching-report/
+Aston Coaches,8172,50.0,https://publish.bus-data.dft.gov.uk/org/159/dataset/avl/8172/download-matching-report/
+Moving People,8214,39.0,https://publish.bus-data.dft.gov.uk/org/383/dataset/avl/8214/download-matching-report/
+Richmonds Coaches,8230,43.0,https://publish.bus-data.dft.gov.uk/org/87/dataset/avl/8230/download-matching-report/
+Harrogate Coach Travel Ltd,8262,86.0,https://publish.bus-data.dft.gov.uk/org/30/dataset/avl/8262/download-matching-report/
+Mil-Ken Travel,8270,,
+HCT Group,8292,,
+Whippet Coaches,8295,92.0,https://publish.bus-data.dft.gov.uk/org/114/dataset/avl/8295/download-matching-report/
+Pauls Travel,8303,,
+Red Rose Travel,8350,82.0,https://publish.bus-data.dft.gov.uk/org/251/dataset/avl/8350/download-matching-report/
+Britannia Luxury Coaches,8373,,
+Coach Events Services Ltd,8375,66.0,https://publish.bus-data.dft.gov.uk/org/883/dataset/avl/8375/download-matching-report/
+First & Last Mile,8377,,
+Lee Woad T/A Sweynes,8378,0.0,https://publish.bus-data.dft.gov.uk/org/893/dataset/avl/8378/download-matching-report/
+C G Myall & Son,8389,66.0,https://publish.bus-data.dft.gov.uk/org/119/dataset/avl/8389/download-matching-report/
+A & J Coaches,8392,0.0,https://publish.bus-data.dft.gov.uk/org/823/dataset/avl/8392/download-matching-report/
+Cresta Coaches,8420,0.0,https://publish.bus-data.dft.gov.uk/org/451/dataset/avl/8420/download-matching-report/
+Pilkingtonbus,8467,63.0,https://publish.bus-data.dft.gov.uk/org/296/dataset/avl/8467/download-matching-report/
+First Bus,8580,94.0,https://publish.bus-data.dft.gov.uk/org/16/dataset/avl/8580/download-matching-report/
+Hornsby Travel Ltd,805,0.0,https://publish.bus-data.dft.gov.uk/org/219/dataset/avl/805/download-matching-report/
+Royal Buses,8920,,
+Gem Travel,9022,0.0,https://publish.bus-data.dft.gov.uk/org/703/dataset/avl/9022/download-matching-report/
+First Bus,9088,99.0,https://publish.bus-data.dft.gov.uk/org/16/dataset/avl/9088/download-matching-report/
+Ashcrofts Mini Travel,9091,,
+Chepstow Classic Buses,9135,,
+Rotala Group of Companies,9189,92.0,https://publish.bus-data.dft.gov.uk/org/53/dataset/avl/9189/download-matching-report/
+Lakeland Commercials,3960,,
+Go-Ahead,9264,97.0,https://publish.bus-data.dft.gov.uk/org/10/dataset/avl/9264/download-matching-report/
+Gateshead Central Taxis,9419,59.0,https://publish.bus-data.dft.gov.uk/org/838/dataset/avl/9419/download-matching-report/
+Ross Travel,9544,0.0,https://publish.bus-data.dft.gov.uk/org/389/dataset/avl/9544/download-matching-report/
+TLC Travel Ltd,9608,76.0,https://publish.bus-data.dft.gov.uk/org/392/dataset/avl/9608/download-matching-report/
+Lucketts Travel,9730,,
+A-Line Coaches,9752,,
+N.N. Cresswell,9754,,
+The Green Bus,9795,,
+St Ives Bus Co Ltd,9845,0.0,https://publish.bus-data.dft.gov.uk/org/885/dataset/avl/9845/download-matching-report/
+First Bus,9950,96.0,https://publish.bus-data.dft.gov.uk/org/16/dataset/avl/9950/download-matching-report/
+Yorkshire Travel Group Ltd t/a Yorkshire Buses,10033,,
+Stagecoach,10058,98.0,https://publish.bus-data.dft.gov.uk/org/15/dataset/avl/10058/download-matching-report/
+Bullocks Coaches,10197,,
+The Big Lemon CIC,10220,92.0,https://publish.bus-data.dft.gov.uk/org/228/dataset/avl/10220/download-matching-report/
+Wilfreda Luxury Coaches Ltd,10383,90.0,https://publish.bus-data.dft.gov.uk/org/837/dataset/avl/10383/download-matching-report/
+Abus,10408,,
+Taxico (Aimee's),10447,85.0,https://publish.bus-data.dft.gov.uk/org/58/dataset/avl/10447/download-matching-report/
+Bear Buses,10449,100.0,https://publish.bus-data.dft.gov.uk/org/230/dataset/avl/10449/download-matching-report/
+Mulleys Motorways,10531,94.0,https://publish.bus-data.dft.gov.uk/org/11/dataset/avl/10531/download-matching-report/
+Globe Holidays Ltd,10543,60.0,https://publish.bus-data.dft.gov.uk/org/887/dataset/avl/10543/download-matching-report/
+Star Travel,10617,0.0,https://publish.bus-data.dft.gov.uk/org/263/dataset/avl/10617/download-matching-report/
+M&R Travel,10823,0.0,https://publish.bus-data.dft.gov.uk/org/408/dataset/avl/10823/download-matching-report/
+Grindles Coaches,10824,0.0,https://publish.bus-data.dft.gov.uk/org/474/dataset/avl/10824/download-matching-report/
+Irving of Dalston,10830,,
+Catteralls,10831,100.0,https://publish.bus-data.dft.gov.uk/org/789/dataset/avl/10831/download-matching-report/
+Berry's Coaches,10856,,
+First Bus,10878,82.0,https://publish.bus-data.dft.gov.uk/org/16/dataset/avl/10878/download-matching-report/
+Hatch Green Coaches,10883,78.0,https://publish.bus-data.dft.gov.uk/org/136/dataset/avl/10883/download-matching-report/
+Harpur's Coaches Ltd,10915,,
+Stevenson's Travel,11048,100.0,https://publish.bus-data.dft.gov.uk/org/391/dataset/avl/11048/download-matching-report/
+Community Transport South Wiltshire,11072,,
+Yeos Contracts,11090,,
+Somerset County Council (UILTA),11125,,
+NIBSbuses Limited,11175,91.0,https://publish.bus-data.dft.gov.uk/org/67/dataset/avl/11175/download-matching-report/
+Z&S Transport,11389,88.0,https://publish.bus-data.dft.gov.uk/org/115/dataset/avl/11389/download-matching-report/
+First Bus,11393,95.0,https://publish.bus-data.dft.gov.uk/org/16/dataset/avl/11393/download-matching-report/
+MD Bus & Coach,11398,13.0,https://publish.bus-data.dft.gov.uk/org/384/dataset/avl/11398/download-matching-report/
+Manchester Bus Tours LTD,11400,0.0,https://publish.bus-data.dft.gov.uk/org/889/dataset/avl/11400/download-matching-report/
+Henshaw's Executive Travel,11440,,
+Aintree Coaches,11447,62.0,https://publish.bus-data.dft.gov.uk/org/534/dataset/avl/11447/download-matching-report/
+McCall's Coaches Ltd,11505,,
+KEANE TRAVEL LIMITED,11536,,
+JW Lodge & Sons,11713,,
+Hawkes Coaches,11714,,
+Fargo Coaches,11816,0.0,https://publish.bus-data.dft.gov.uk/org/695/dataset/avl/11816/download-matching-report/
+A B Coaches Ltd,11827,,
+Nottingham Minibuses & Coaches Ltd,11840,40.0,https://publish.bus-data.dft.gov.uk/org/280/dataset/avl/11840/download-matching-report/
+Acme Bus Co,11979,,
+Martock Minibuses Ltd T/A Vickery’s Coaches,12027,,
+Midland Classic,12029,92.0,https://publish.bus-data.dft.gov.uk/org/34/dataset/avl/12029/download-matching-report/
+F R Willetts,12054,0.0,https://publish.bus-data.dft.gov.uk/org/467/dataset/avl/12054/download-matching-report/
+Discover Dorset,12107,,
+Xelabus,12147,,
+N.N. Cresswell,12155,,
+Masons Travel,12203,0.0,https://publish.bus-data.dft.gov.uk/org/375/dataset/avl/12203/download-matching-report/
+Varteg Motors Ltd T/A Phil Anslow Coaches,12251,,
+National Express (UK Coach),12319,0.0,https://publish.bus-data.dft.gov.uk/org/631/dataset/avl/12319/download-matching-report/
+Woods Coaches Ltd,12409,,
+Yarranton Brothers,12411,0.0,https://publish.bus-data.dft.gov.uk/org/173/dataset/avl/12411/download-matching-report/
+Steve Keats of Sheffield,12463,0.0,https://publish.bus-data.dft.gov.uk/org/679/dataset/avl/12463/download-matching-report/
+Rotala Group of Companies,12521,,
+Bland's (Rutland) Ltd,12560,95.0,https://publish.bus-data.dft.gov.uk/org/99/dataset/avl/12560/download-matching-report/
+M R D,12564,,
+Coopers Tours Ltd,12630,,
+Belle Coaches,12642,,
+Taylors Travel,12674,12.0,https://publish.bus-data.dft.gov.uk/org/513/dataset/avl/12674/download-matching-report/
+Royal Buses,12685,,
+LA Travel (Midlands) Ltd T/A South Staffs,12690,40.0,https://publish.bus-data.dft.gov.uk/org/996/dataset/avl/12690/download-matching-report/
+Thandi Red Ltd,12780,,
+Taunton School Enterprises Ltd,12791,,
+Transport for Greater Manchester,12880,97.0,https://publish.bus-data.dft.gov.uk/org/978/dataset/avl/12880/download-matching-report/
+ASD Coaches,12968,70.0,https://publish.bus-data.dft.gov.uk/org/284/dataset/avl/12968/download-matching-report/
+Top Mops Limited,12986,0.0,https://publish.bus-data.dft.gov.uk/org/896/dataset/avl/12986/download-matching-report/
+Evolve Bus & Coach,13256,,
+HOWARDS TRAVEL AND OMEGA BUSWAYS LIMITED,13259,,
+Crosskeys Coaches,13281,100.0,https://publish.bus-data.dft.gov.uk/org/423/dataset/avl/13281/download-matching-report/
+David Goodfellow Travel,13343,66.0,https://publish.bus-data.dft.gov.uk/org/931/dataset/avl/13343/download-matching-report/
+1st Bus Stop Ltd,13355,82.0,https://publish.bus-data.dft.gov.uk/org/330/dataset/avl/13355/download-matching-report/
+David Goodfellow Travel,13364,,
+A and J Taxis,13405,,
+Taylors Coach Travel Ltd,13407,,
+Golden Tours,13480,,
+Duck Tours,13481,0.0,https://publish.bus-data.dft.gov.uk/org/746/dataset/avl/13481/download-matching-report/
+CAWTHORNE'S TRAVEL LTD,13504,,
+Pats Coaches,13624,0.0,https://publish.bus-data.dft.gov.uk/org/147/dataset/avl/13624/download-matching-report/
+Clarkes of London,13642,,
+Sheffield Community Transport,13650,,
+Hedge the Distance,13673,,
+Travel Express,13701,0.0,https://publish.bus-data.dft.gov.uk/org/306/dataset/avl/13701/download-matching-report/
+Stantons of Stoke,13799,58.0,https://publish.bus-data.dft.gov.uk/org/57/dataset/avl/13799/download-matching-report/
+Blue Buses,13803,0.0,https://publish.bus-data.dft.gov.uk/org/157/dataset/avl/13803/download-matching-report/
+Peoples Bus,13874,,
+Liverpool City Sights,13990,,
+A2B Travel Group Ltd,14022,85.0,https://publish.bus-data.dft.gov.uk/org/826/dataset/avl/14022/download-matching-report/
+Centrebus Group,14025,98.0,https://publish.bus-data.dft.gov.uk/org/8/dataset/avl/14025/download-matching-report/
+Centrebus Group,14026,99.0,https://publish.bus-data.dft.gov.uk/org/8/dataset/avl/14026/download-matching-report/
+Nottingham City Transport,14029,,
+Sussex Coaches,14151,83.0,https://publish.bus-data.dft.gov.uk/org/416/dataset/avl/14151/download-matching-report/
+Telford Coaches,14158,100.0,https://publish.bus-data.dft.gov.uk/org/215/dataset/avl/14158/download-matching-report/
+CT Coaches,14261,0.0,https://publish.bus-data.dft.gov.uk/org/453/dataset/avl/14261/download-matching-report/
+Finestyle Coaches,14272,,
+Edward Thomas,14323,0.0,https://publish.bus-data.dft.gov.uk/org/326/dataset/avl/14323/download-matching-report/
+Transport for Greater Manchester,14327,96.0,https://publish.bus-data.dft.gov.uk/org/978/dataset/avl/14327/download-matching-report/
+AMK,14329,20.0,https://publish.bus-data.dft.gov.uk/org/433/dataset/avl/14329/download-matching-report/
+Transport for Greater Manchester,14336,98.0,https://publish.bus-data.dft.gov.uk/org/978/dataset/avl/14336/download-matching-report/
+Berry's Coaches,14348,80.0,https://publish.bus-data.dft.gov.uk/org/440/dataset/avl/14348/download-matching-report/
+Isle Valley Transport,14349,,
+BM Coaches and Rental Ltd,14392,,
+London Vintage Bus Hire (trading as The London Bus Company),14396,0.0,https://publish.bus-data.dft.gov.uk/org/130/dataset/avl/14396/download-matching-report/
+Mountain Goat,14422,,
+Carolean Coaches Ltd,14441,83.0,https://publish.bus-data.dft.gov.uk/org/1021/dataset/avl/14441/download-matching-report/
+SUNBEAM LUXURY COACHES LTD,14446,50.0,https://publish.bus-data.dft.gov.uk/org/1019/dataset/avl/14446/download-matching-report/
+Roselyn Coaches,14452,,
+J N Baker Ltd t/a Bakers Dolphin,14459,,
+Troopers Lodge Motor Services Ltd,14556,,
+Kevendy's Travel,14557,0.0,https://publish.bus-data.dft.gov.uk/org/935/dataset/avl/14557/download-matching-report/
+Dartmouth Steam Railway And River Boat Company,14558,,
+Dartmouth Steam Railway And River Boat Company,14566,,
+Swans Travel,14596,,
+James Bevan,14616,0.0,https://publish.bus-data.dft.gov.uk/org/558/dataset/avl/14616/download-matching-report/
+Ashbourne Little Bus Co,14642,100.0,https://publish.bus-data.dft.gov.uk/org/49/dataset/avl/14642/download-matching-report/
+West Oxfordshire Community Transport,14656,,
+Royal Buses,14769,0.0,https://publish.bus-data.dft.gov.uk/org/5/dataset/avl/14769/download-matching-report/
+Bus Link Ltd,14820,100.0,https://publish.bus-data.dft.gov.uk/org/1031/dataset/avl/14820/download-matching-report/
+Northstar Constellation Limited (formerly RMC1510 Limited),14946,44.0,https://publish.bus-data.dft.gov.uk/org/1020/dataset/avl/14946/download-matching-report/
+Reays Coaches,14980,,
+Safeway Coaches Ltd,15011,,
+Sweyne Coaches,15175,0.0,https://publish.bus-data.dft.gov.uk/org/678/dataset/avl/15175/download-matching-report/
+First Bus,15211,86.0,https://publish.bus-data.dft.gov.uk/org/16/dataset/avl/15211/download-matching-report/
+Ability (Northants) CIC,15332,,
+Coastal & Country Coaches,15345,,
+Archway Travel,15377,73.0,https://publish.bus-data.dft.gov.uk/org/729/dataset/avl/15377/download-matching-report/
+Ashbourne Little Bus Co,15495,,
+Fords Coaches,15513,0.0,https://publish.bus-data.dft.gov.uk/org/124/dataset/avl/15513/download-matching-report/
+Daniel Trent TA Dan's Coach Travel,15189,9.0,https://publish.bus-data.dft.gov.uk/org/892/dataset/avl/15189/download-matching-report/
+21 Transport LTD,15600,100.0,https://publish.bus-data.dft.gov.uk/org/1017/dataset/avl/15600/download-matching-report/
+Sharpes of Nottingham,15617,91.0,https://publish.bus-data.dft.gov.uk/org/279/dataset/avl/15617/download-matching-report/
+Fareline Bus & Coach Services,15647,,
+Brian Jones Coaches,15648,100.0,https://publish.bus-data.dft.gov.uk/org/331/dataset/avl/15648/download-matching-report/
+Dartmouth Steam Railway And River Boat Company,15652,,
+R & J Coaches,15747,,
+Chepstow Classic Buses,15785,0.0,https://publish.bus-data.dft.gov.uk/org/445/dataset/avl/15785/download-matching-report/
+Hedge the Distance,15786,0.0,https://publish.bus-data.dft.gov.uk/org/763/dataset/avl/15786/download-matching-report/
+R & J Coaches,15791,100.0,https://publish.bus-data.dft.gov.uk/org/426/dataset/avl/15791/download-matching-report/
+Go-Ahead,15816,99.0,https://publish.bus-data.dft.gov.uk/org/10/dataset/avl/15816/download-matching-report/
+Beestons,7134,63.0,https://publish.bus-data.dft.gov.uk/org/44/dataset/avl/7134/download-matching-report/
+Lucketts of Watford,15896,0.0,https://publish.bus-data.dft.gov.uk/org/315/dataset/avl/15896/download-matching-report/
+Starline,15914,,
+Marchants Coaches,15974,22.0,https://publish.bus-data.dft.gov.uk/org/485/dataset/avl/15974/download-matching-report/
+Craig of Campbeltown Ltd,15980,27.0,https://publish.bus-data.dft.gov.uk/org/76/dataset/avl/15980/download-matching-report/
+Harpur's Coaches Ltd,16078,,
+Rambler Coaches,16241,0.0,https://publish.bus-data.dft.gov.uk/org/683/dataset/avl/16241/download-matching-report/
+Squarepeg,9944,100.0,https://publish.bus-data.dft.gov.uk/org/573/dataset/avl/9944/download-matching-report/
+Heatons Coaches,16305,100.0,https://publish.bus-data.dft.gov.uk/org/666/dataset/avl/16305/download-matching-report/
+HADLOW RURAL COMMUNITY SCHOOL LIMITED,16312,,
+Transport for Greater Manchester,16387,96.0,https://publish.bus-data.dft.gov.uk/org/978/dataset/avl/16387/download-matching-report/
+West Berkshire Council (UILTA),16425,,
+Stagecoach,16172,100.0,https://publish.bus-data.dft.gov.uk/org/15/dataset/avl/16172/download-matching-report/
+Marshalls Coaches LLP,16382,,
+Centaur Coaches,10062,,
+Stephensons of Essex,14017,95.0,https://publish.bus-data.dft.gov.uk/org/20/dataset/avl/14017/download-matching-report/
+Pilkingtonbus,16899,100.0,https://publish.bus-data.dft.gov.uk/org/296/dataset/avl/16899/download-matching-report/
+Marshalls Coaches LLP,16950,,
+Marshalls Coaches LLP,16983,,
+Regional Transport Ltd,17251,0.0,https://publish.bus-data.dft.gov.uk/org/795/dataset/avl/17251/download-matching-report/
+Stowmarket Minibus & Coach Hire,17353,,
+Transport Made Simple,7693,89.0,https://publish.bus-data.dft.gov.uk/org/225/dataset/avl/7693/download-matching-report/
+Dartmouth Steam Railway And River Boat Company,17475,,
+BM Coaches and Rental Ltd,14143,,
+K B Coaches,17749,,
+Andrews Coaches,17820,78.0,https://publish.bus-data.dft.gov.uk/org/193/dataset/avl/17820/download-matching-report/
+Cruisers,17910,100.0,https://publish.bus-data.dft.gov.uk/org/233/dataset/avl/17910/download-matching-report/
+M&H Coaches,18010,,
+Cavern City Tours,18030,,
+Pilkingtonbus,18056,60.0,https://publish.bus-data.dft.gov.uk/org/296/dataset/avl/18056/download-matching-report/
+WNCT LTD,18138,100.0,https://publish.bus-data.dft.gov.uk/org/71/dataset/avl/18138/download-matching-report/
+Shires Passenger Transport,18374,,
+Maghull Coaches,18435,0.0,https://publish.bus-data.dft.gov.uk/org/560/dataset/avl/18435/download-matching-report/
+Ashwood Travel,18464,100.0,https://publish.bus-data.dft.gov.uk/org/358/dataset/avl/18464/download-matching-report/
+Marshalls Coaches LLP,18694,,
+Marshalls Coaches LLP,18721,,
+Centrebus Group,18865,100.0,https://publish.bus-data.dft.gov.uk/org/8/dataset/avl/18865/download-matching-report/
+Transport for Greater Manchester,18880,97.0,https://publish.bus-data.dft.gov.uk/org/978/dataset/avl/18880/download-matching-report/
+Maghull Coaches,17710,,
+Notts & Derby Traction Co. Limited,16085,93.0,https://publish.bus-data.dft.gov.uk/org/74/dataset/avl/16085/download-matching-report/
+Coach Events Services Ltd,19025,,
+Coach Services,12152,0.0,https://publish.bus-data.dft.gov.uk/org/176/dataset/avl/12152/download-matching-report/
+GATWICK HOPPA LTD,19128,0.0,https://publish.bus-data.dft.gov.uk/org/1162/dataset/avl/19128/download-matching-report/
+Gateshead Central Taxis,19495,100.0,https://publish.bus-data.dft.gov.uk/org/838/dataset/avl/19495/download-matching-report/
+F R Willetts,19549,,
+Brookline Coaches Ltd,19706,100.0,https://publish.bus-data.dft.gov.uk/org/420/dataset/avl/19706/download-matching-report/
+Peter Hodgson,19710,100.0,https://publish.bus-data.dft.gov.uk/org/788/dataset/avl/19710/download-matching-report/
+Stowmarket Minibus & Coach Hire,19733,,
+Skills Motor Coaches Ltd,19761,,
+Boultons of Shropshire Ltd,19763,,
+City Transport Group,19808,,
+Autocar Bus & Coach Services,19936,96.0,https://publish.bus-data.dft.gov.uk/org/418/dataset/avl/19936/download-matching-report/
+John Dix Travel LTD,20022,0.0,https://publish.bus-data.dft.gov.uk/org/836/dataset/avl/20022/download-matching-report/
+KP CABS Cornwall Ltd,20223,,
+Ensign Bus,20257,0.0,https://publish.bus-data.dft.gov.uk/org/18/dataset/avl/20257/download-matching-report/
+HOWARDS TRAVEL AND OMEGA BUSWAYS LIMITED,20406,0.0,https://publish.bus-data.dft.gov.uk/org/959/dataset/avl/20406/download-matching-report/
+Transport for Greater Manchester,20422,97.0,https://publish.bus-data.dft.gov.uk/org/978/dataset/avl/20422/download-matching-report/
+Flagfinders,20548,,
+Thames Valley Buses,20832,98.0,https://publish.bus-data.dft.gov.uk/org/234/dataset/avl/20832/download-matching-report/
+Woods of Berwick Ltd,20840,,
+Greenslades Tours (Exeter) Ltd,20950,,
+Reading Buses,21134,96.0,https://publish.bus-data.dft.gov.uk/org/7/dataset/avl/21134/download-matching-report/
+Star Cabs,13879,100.0,https://publish.bus-data.dft.gov.uk/org/597/dataset/avl/13879/download-matching-report/
+Our Bus,21247,100.0,https://publish.bus-data.dft.gov.uk/org/186/dataset/avl/21247/download-matching-report/
+CVS ESSEX LIMITED,21250,50.0,https://publish.bus-data.dft.gov.uk/org/995/dataset/avl/21250/download-matching-report/
+Ipswich Buses,21276,96.0,https://publish.bus-data.dft.gov.uk/org/127/dataset/avl/21276/download-matching-report/
+National Express West Midlands,10609,98.0,https://publish.bus-data.dft.gov.uk/org/62/dataset/avl/10609/download-matching-report/
+Star Travel,21665,0.0,https://publish.bus-data.dft.gov.uk/org/263/dataset/avl/21665/download-matching-report/
+Grayscroft Coaches,21840,87.0,https://publish.bus-data.dft.gov.uk/org/96/dataset/avl/21840/download-matching-report/
+Go-Ahead,22163,100.0,https://publish.bus-data.dft.gov.uk/org/10/dataset/avl/22163/download-matching-report/
+Nottingham County Council,22371,,
+Lakeside Coaches Ltd,22761,13.0,https://publish.bus-data.dft.gov.uk/org/141/dataset/avl/22761/download-matching-report/
+Imperial Coaches,19997,100.0,https://publish.bus-data.dft.gov.uk/org/765/dataset/avl/19997/download-matching-report/
+Uno,23457,90.0,https://publish.bus-data.dft.gov.uk/org/22/dataset/avl/23457/download-matching-report/
+Kempsford Transport UK Ltd,20175,66.0,https://publish.bus-data.dft.gov.uk/org/1169/dataset/avl/20175/download-matching-report/
+Linkrider coaches,23576,100.0,https://publish.bus-data.dft.gov.uk/org/1014/dataset/avl/23576/download-matching-report/
+Pilkingtonbus,23745,25.0,https://publish.bus-data.dft.gov.uk/org/296/dataset/avl/23745/download-matching-report/
+Zero2 Bus Museum Ltd,23815,,
+PETER HOGG OF JEDBURGH LTD,24059,,
+PETER HOGG OF JEDBURGH LTD,24063,,
+SMT Bus and Coach Ltd,24109,,
+Yarranton Brothers,24132,100.0,https://publish.bus-data.dft.gov.uk/org/173/dataset/avl/24132/download-matching-report/
+Transport Made Simple,24177,14.0,https://publish.bus-data.dft.gov.uk/org/225/dataset/avl/24177/download-matching-report/
+Northumberland Travel,24187,0.0,https://publish.bus-data.dft.gov.uk/org/1182/dataset/avl/24187/download-matching-report/
+ALBATROSS BUS & COACHES LTD,24219,100.0,https://publish.bus-data.dft.gov.uk/org/1186/dataset/avl/24219/download-matching-report/

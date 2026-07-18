@@ -1,0 +1,2308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="2.4" CreationDateTime="2024-07-15T08:53:40" ModificationDateTime="2026-04-16T14:10:09" Modification="revise" RevisionNumber="55" FileName="AMSY_68_AMSYPC000114140968_20260104_-_2248394.xml" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S47067U</StopPointRef>
+      <CommonName>Bootle New Strand Station</CommonName>
+      <Location>
+        <Longitude>-2.992871</Longitude>
+        <Latitude>53.453044</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S47175F</StopPointRef>
+      <CommonName>Bootle Bus Station</CommonName>
+      <Location>
+        <Longitude>-2.993368</Longitude>
+        <Latitude>53.452375</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S47029D</StopPointRef>
+      <CommonName>Thornton Road</CommonName>
+      <Location>
+        <Longitude>-2.990714</Longitude>
+        <Latitude>53.454797</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S47069B</StopPointRef>
+      <CommonName>Gloucester Road</CommonName>
+      <Location>
+        <Longitude>-2.983008</Longitude>
+        <Latitude>53.456335</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S47069A</StopPointRef>
+      <CommonName>Hawthorne Road</CommonName>
+      <Location>
+        <Longitude>-2.984525</Longitude>
+        <Latitude>53.456160</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S47068B</StopPointRef>
+      <CommonName>Fernhill Road</CommonName>
+      <Location>
+        <Longitude>-2.980358</Longitude>
+        <Latitude>53.456348</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S46065D</StopPointRef>
+      <CommonName>Connolly Avenue</CommonName>
+      <Location>
+        <Longitude>-2.973868</Longitude>
+        <Latitude>53.456410</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S47068A</StopPointRef>
+      <CommonName>Fernhill Road</CommonName>
+      <Location>
+        <Longitude>-2.980369</Longitude>
+        <Latitude>53.456150</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S46065C</StopPointRef>
+      <CommonName>Connolly Avenue</CommonName>
+      <Location>
+        <Longitude>-2.973651</Longitude>
+        <Latitude>53.456142</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S46079A</StopPointRef>
+      <CommonName>Walton Prison</CommonName>
+      <Location>
+        <Longitude>-2.970917</Longitude>
+        <Latitude>53.456425</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S46078A</StopPointRef>
+      <CommonName>Walton Station</CommonName>
+      <Location>
+        <Longitude>-2.966721</Longitude>
+        <Latitude>53.457349</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S46079B</StopPointRef>
+      <CommonName>Walton Prison</CommonName>
+      <Location>
+        <Longitude>-2.971303</Longitude>
+        <Latitude>53.456197</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S46078B</StopPointRef>
+      <CommonName>Walton Station</CommonName>
+      <Location>
+        <Longitude>-2.966041</Longitude>
+        <Latitude>53.457237</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S46051A</StopPointRef>
+      <CommonName>Rice Lane Station</CommonName>
+      <Location>
+        <Longitude>-2.963165</Longitude>
+        <Latitude>53.457944</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S46052B</StopPointRef>
+      <CommonName>Fazakerley Road</CommonName>
+      <Location>
+        <Longitude>-2.961602</Longitude>
+        <Latitude>53.454729</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S46051B</StopPointRef>
+      <CommonName>Rice Lane Station</CommonName>
+      <Location>
+        <Longitude>-2.962996</Longitude>
+        <Latitude>53.457774</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S46052C</StopPointRef>
+      <CommonName>Rawcliffe Road</CommonName>
+      <Location>
+        <Longitude>-2.961994</Longitude>
+        <Latitude>53.454762</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S46053C</StopPointRef>
+      <CommonName>Cavendish Drive</CommonName>
+      <Location>
+        <Longitude>-2.964262</Longitude>
+        <Latitude>53.451867</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S46054B</StopPointRef>
+      <CommonName>Denbigh Road</CommonName>
+      <Location>
+        <Longitude>-2.966594</Longitude>
+        <Latitude>53.448424</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S46053A</StopPointRef>
+      <CommonName>Clock Tower Drive</CommonName>
+      <Location>
+        <Longitude>-2.964448</Longitude>
+        <Latitude>53.452064</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S46054A</StopPointRef>
+      <CommonName>York Street</CommonName>
+      <Location>
+        <Longitude>-2.966953</Longitude>
+        <Latitude>53.448349</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40076B</StopPointRef>
+      <CommonName>Bedford Road</CommonName>
+      <Location>
+        <Longitude>-2.967683</Longitude>
+        <Latitude>53.446015</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40167A</StopPointRef>
+      <CommonName>Pym Street</CommonName>
+      <Location>
+        <Longitude>-2.969640</Longitude>
+        <Latitude>53.444003</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40076C</StopPointRef>
+      <CommonName>Bedford Road</CommonName>
+      <Location>
+        <Longitude>-2.967977</Longitude>
+        <Latitude>53.446336</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40077A</StopPointRef>
+      <CommonName>Lind Street</CommonName>
+      <Location>
+        <Longitude>-2.970621</Longitude>
+        <Latitude>53.441461</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40078C</StopPointRef>
+      <CommonName>Eton Street</CommonName>
+      <Location>
+        <Longitude>-2.970948</Longitude>
+        <Latitude>53.439292</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40077C</StopPointRef>
+      <CommonName>Makin Street</CommonName>
+      <Location>
+        <Longitude>-2.970310</Longitude>
+        <Latitude>53.443683</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40077D</StopPointRef>
+      <CommonName>Arundel Street</CommonName>
+      <Location>
+        <Longitude>-2.970898</Longitude>
+        <Latitude>53.441719</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40119B</StopPointRef>
+      <CommonName>Newby Street</CommonName>
+      <Location>
+        <Longitude>-2.967630</Longitude>
+        <Latitude>53.436370</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40071A</StopPointRef>
+      <CommonName>Anfield Road</CommonName>
+      <Location>
+        <Longitude>-2.968540</Longitude>
+        <Latitude>53.433850</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40078D</StopPointRef>
+      <CommonName>Eton Street</CommonName>
+      <Location>
+        <Longitude>-2.971203</Longitude>
+        <Latitude>53.439254</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40054B</StopPointRef>
+      <CommonName>Blessington Road</CommonName>
+      <Location>
+        <Longitude>-2.967265</Longitude>
+        <Latitude>53.430935</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40055B</StopPointRef>
+      <CommonName>Liverpool FC</CommonName>
+      <Location>
+        <Longitude>-2.961403</Longitude>
+        <Latitude>53.429949</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40056B</StopPointRef>
+      <CommonName>Anfield Road</CommonName>
+      <Location>
+        <Longitude>-2.957300</Longitude>
+        <Latitude>53.430940</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40072A</StopPointRef>
+      <CommonName>Spellow Lane</CommonName>
+      <Location>
+        <Longitude>-2.966616</Longitude>
+        <Latitude>53.437484</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40103B</StopPointRef>
+      <CommonName>Walton Lane</CommonName>
+      <Location>
+        <Longitude>-2.962656</Longitude>
+        <Latitude>53.437453</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40104A</StopPointRef>
+      <CommonName>Anfield Cemetery</CommonName>
+      <Location>
+        <Longitude>-2.958796</Longitude>
+        <Latitude>53.435821</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40072D</StopPointRef>
+      <CommonName>Walton Lane</CommonName>
+      <Location>
+        <Longitude>-2.967974</Longitude>
+        <Latitude>53.437608</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40103A</StopPointRef>
+      <CommonName>Priory Road</CommonName>
+      <Location>
+        <Longitude>-2.964255</Longitude>
+        <Latitude>53.437575</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40104B</StopPointRef>
+      <CommonName>Anfield Cemetery</CommonName>
+      <Location>
+        <Longitude>-2.957858</Longitude>
+        <Latitude>53.434957</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40057C</StopPointRef>
+      <CommonName>Utting Avenue</CommonName>
+      <Location>
+        <Longitude>-2.954912</Longitude>
+        <Latitude>53.433120</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40105B</StopPointRef>
+      <CommonName>Wenlock Road</CommonName>
+      <Location>
+        <Longitude>-2.951338</Longitude>
+        <Latitude>53.430110</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40057A</StopPointRef>
+      <CommonName>Arkles Lane</CommonName>
+      <Location>
+        <Longitude>-2.955350</Longitude>
+        <Latitude>53.433179</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40033A</StopPointRef>
+      <CommonName>Townsend Lane</CommonName>
+      <Location>
+        <Longitude>-2.949328</Longitude>
+        <Latitude>53.427735</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40071B</StopPointRef>
+      <CommonName>Florence Street</CommonName>
+      <Location>
+        <Longitude>-2.968760</Longitude>
+        <Latitude>53.434260</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40054A</StopPointRef>
+      <CommonName>Burleigh Road North</CommonName>
+      <Location>
+        <Longitude>-2.966569</Longitude>
+        <Latitude>53.430770</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40091A</StopPointRef>
+      <CommonName>Richmond Park</CommonName>
+      <Location>
+        <Longitude>-2.946570</Longitude>
+        <Latitude>53.426193</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40092A</StopPointRef>
+      <CommonName>Breckside Park</CommonName>
+      <Location>
+        <Longitude>-2.944717</Longitude>
+        <Latitude>53.425416</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40126A</StopPointRef>
+      <CommonName>Venice Street</CommonName>
+      <Location>
+        <Longitude>-2.964182</Longitude>
+        <Latitude>53.430358</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40055A</StopPointRef>
+      <CommonName>Liverpool FC</CommonName>
+      <Location>
+        <Longitude>-2.961413</Longitude>
+        <Latitude>53.429724</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40056A</StopPointRef>
+      <CommonName>Anfield Road</CommonName>
+      <Location>
+        <Longitude>-2.957610</Longitude>
+        <Latitude>53.430430</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40057B</StopPointRef>
+      <CommonName>Priory Road</CommonName>
+      <Location>
+        <Longitude>-2.954980</Longitude>
+        <Latitude>53.432240</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40105A</StopPointRef>
+      <CommonName>Feltwell Road</CommonName>
+      <Location>
+        <Longitude>-2.951841</Longitude>
+        <Latitude>53.430421</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40033E</StopPointRef>
+      <CommonName>Hanwell Street</CommonName>
+      <Location>
+        <Longitude>-2.948936</Longitude>
+        <Latitude>53.427001</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40091B</StopPointRef>
+      <CommonName>Richmond Park</CommonName>
+      <Location>
+        <Longitude>-2.946278</Longitude>
+        <Latitude>53.425934</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40024A</StopPointRef>
+      <CommonName>March Road</CommonName>
+      <Location>
+        <Longitude>-2.940988</Longitude>
+        <Latitude>53.423549</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40092B</StopPointRef>
+      <CommonName>August Road</CommonName>
+      <Location>
+        <Longitude>-2.942784</Longitude>
+        <Latitude>53.424434</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40024B</StopPointRef>
+      <CommonName>Rocky Lane</CommonName>
+      <Location>
+        <Longitude>-2.940811</Longitude>
+        <Latitude>53.423002</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40025E</StopPointRef>
+      <CommonName>Windsor Road</CommonName>
+      <Location>
+        <Longitude>-2.935227</Longitude>
+        <Latitude>53.424143</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40025B</StopPointRef>
+      <CommonName>New Road</CommonName>
+      <Location>
+        <Longitude>-2.934659</Longitude>
+        <Latitude>53.423770</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40026B</StopPointRef>
+      <CommonName>Santon Avenue</CommonName>
+      <Location>
+        <Longitude>-2.929623</Longitude>
+        <Latitude>53.424780</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S40026D</StopPointRef>
+      <CommonName>Santon Avenue</CommonName>
+      <Location>
+        <Longitude>-2.929274</Longitude>
+        <Latitude>53.424621</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S41034B</StopPointRef>
+      <CommonName>Rockbank Lane</CommonName>
+      <Location>
+        <Longitude>-2.927537</Longitude>
+        <Latitude>53.422953</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S41035A</StopPointRef>
+      <CommonName>Tynwald Hill</CommonName>
+      <Location>
+        <Longitude>-2.924364</Longitude>
+        <Latitude>53.420290</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S41034A</StopPointRef>
+      <CommonName>Sutton Street</CommonName>
+      <Location>
+        <Longitude>-2.927054</Longitude>
+        <Latitude>53.422202</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S41035B</StopPointRef>
+      <CommonName>Woburn Hill</CommonName>
+      <Location>
+        <Longitude>-2.924005</Longitude>
+        <Latitude>53.419709</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S41036A</StopPointRef>
+      <CommonName>Brelade Road</CommonName>
+      <Location>
+        <Longitude>-2.921820</Longitude>
+        <Latitude>53.418171</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S41036B</StopPointRef>
+      <CommonName>Sark Road</CommonName>
+      <Location>
+        <Longitude>-2.922520</Longitude>
+        <Latitude>53.418507</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S41031B</StopPointRef>
+      <CommonName>Bolan Street</CommonName>
+      <Location>
+        <Longitude>-2.920093</Longitude>
+        <Latitude>53.416224</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S41031C</StopPointRef>
+      <CommonName>Bolan Street</CommonName>
+      <Location>
+        <Longitude>-2.920078</Longitude>
+        <Latitude>53.416488</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S41032D</StopPointRef>
+      <CommonName>Greenfield Road</CommonName>
+      <Location>
+        <Longitude>-2.916250</Longitude>
+        <Latitude>53.414555</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S44111C</StopPointRef>
+      <CommonName>Aylesford Road</CommonName>
+      <Location>
+        <Longitude>-2.912268</Longitude>
+        <Latitude>53.412644</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S41032C</StopPointRef>
+      <CommonName>Booth Street</CommonName>
+      <Location>
+        <Longitude>-2.915700</Longitude>
+        <Latitude>53.414128</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S44111B</StopPointRef>
+      <CommonName>Prescot Road</CommonName>
+      <Location>
+        <Longitude>-2.913011</Longitude>
+        <Latitude>53.412917</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S44112B</StopPointRef>
+      <CommonName>Oakhill Road</CommonName>
+      <Location>
+        <Longitude>-2.909649</Longitude>
+        <Latitude>53.411190</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S44112A</StopPointRef>
+      <CommonName>Stapehill Close</CommonName>
+      <Location>
+        <Longitude>-2.908106</Longitude>
+        <Latitude>53.410069</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S44074C</StopPointRef>
+      <CommonName>Edge Lane Drive</CommonName>
+      <Location>
+        <Longitude>-2.904605</Longitude>
+        <Latitude>53.408181</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S44074B</StopPointRef>
+      <CommonName>The Green</CommonName>
+      <Location>
+        <Longitude>-2.904260</Longitude>
+        <Latitude>53.408210</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S44076B</StopPointRef>
+      <CommonName>Broadgreen Station</CommonName>
+      <Location>
+        <Longitude>-2.892669</Longitude>
+        <Latitude>53.406410</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S44073A</StopPointRef>
+      <CommonName>Queens Drive</CommonName>
+      <Location>
+        <Longitude>-2.900893</Longitude>
+        <Latitude>53.409027</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S44072B</StopPointRef>
+      <CommonName>Lingfield Road</CommonName>
+      <Location>
+        <Longitude>-2.896353</Longitude>
+        <Latitude>53.409924</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S45001B</StopPointRef>
+      <CommonName>Bowring Park Road</CommonName>
+      <Location>
+        <Longitude>-2.899736</Longitude>
+        <Latitude>53.405530</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S44077B</StopPointRef>
+      <CommonName>Broadgreen Station</CommonName>
+      <Location>
+        <Longitude>-2.892820</Longitude>
+        <Latitude>53.408370</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S45003A</StopPointRef>
+      <CommonName>Queens Drive</CommonName>
+      <Location>
+        <Longitude>-2.900342</Longitude>
+        <Latitude>53.401471</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S45001A</StopPointRef>
+      <CommonName>Waldgrave Road</CommonName>
+      <Location>
+        <Longitude>-2.901187</Longitude>
+        <Latitude>53.405897</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43039A</StopPointRef>
+      <CommonName>Thingwall Road</CommonName>
+      <Location>
+        <Longitude>-2.899236</Longitude>
+        <Latitude>53.402531</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S45003B</StopPointRef>
+      <CommonName>Field Way</CommonName>
+      <Location>
+        <Longitude>-2.899985</Longitude>
+        <Latitude>53.401672</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S45002B</StopPointRef>
+      <CommonName>South Way</CommonName>
+      <Location>
+        <Longitude>-2.906088</Longitude>
+        <Latitude>53.400772</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S45002A</StopPointRef>
+      <CommonName>Westway</CommonName>
+      <Location>
+        <Longitude>-2.904926</Longitude>
+        <Latitude>53.400601</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43083A</StopPointRef>
+      <CommonName>Childwall Road</CommonName>
+      <Location>
+        <Longitude>-2.910014</Longitude>
+        <Latitude>53.398692</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43083D</StopPointRef>
+      <CommonName>Canvey Close</CommonName>
+      <Location>
+        <Longitude>-2.911047</Longitude>
+        <Latitude>53.397786</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S41060C</StopPointRef>
+      <CommonName>Childwall Road</CommonName>
+      <Location>
+        <Longitude>-2.915217</Longitude>
+        <Latitude>53.397268</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43083B</StopPointRef>
+      <CommonName>Childwall Road</CommonName>
+      <Location>
+        <Longitude>-2.910307</Longitude>
+        <Latitude>53.398340</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S41060A</StopPointRef>
+      <CommonName>Mill Lane</CommonName>
+      <Location>
+        <Longitude>-2.912562</Longitude>
+        <Latitude>53.398295</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S41060B</StopPointRef>
+      <CommonName>Hunters Lane</CommonName>
+      <Location>
+        <Longitude>-2.915420</Longitude>
+        <Latitude>53.396925</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43019B</StopPointRef>
+      <CommonName>Woolton Road</CommonName>
+      <Location>
+        <Longitude>-2.915222</Longitude>
+        <Latitude>53.394706</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43018A</StopPointRef>
+      <CommonName>Hereford Road</CommonName>
+      <Location>
+        <Longitude>-2.914841</Longitude>
+        <Latitude>53.392327</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43020A</StopPointRef>
+      <CommonName>Coventry Road</CommonName>
+      <Location>
+        <Longitude>-2.914496</Longitude>
+        <Latitude>53.390272</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43019A</StopPointRef>
+      <CommonName>Fir Lane</CommonName>
+      <Location>
+        <Longitude>-2.915525</Longitude>
+        <Latitude>53.395468</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43018B</StopPointRef>
+      <CommonName>Beverley Road</CommonName>
+      <Location>
+        <Longitude>-2.915159</Longitude>
+        <Latitude>53.394045</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43017C</StopPointRef>
+      <CommonName>Penny Lane</CommonName>
+      <Location>
+        <Longitude>-2.914634</Longitude>
+        <Latitude>53.389722</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43017F</StopPointRef>
+      <CommonName>Plattsville Road</CommonName>
+      <Location>
+        <Longitude>-2.913654</Longitude>
+        <Latitude>53.388885</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43022A</StopPointRef>
+      <CommonName>Ensworth Road</CommonName>
+      <Location>
+        <Longitude>-2.909651</Longitude>
+        <Latitude>53.387306</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43098B</StopPointRef>
+      <CommonName>Wembley Road</CommonName>
+      <Location>
+        <Longitude>-2.907244</Longitude>
+        <Latitude>53.385131</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43022D</StopPointRef>
+      <CommonName>Mapledale Road</CommonName>
+      <Location>
+        <Longitude>-2.909736</Longitude>
+        <Latitude>53.387054</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43098A</StopPointRef>
+      <CommonName>Garthdale Road</CommonName>
+      <Location>
+        <Longitude>-2.908233</Longitude>
+        <Latitude>53.385708</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43051A</StopPointRef>
+      <CommonName>Mather Avenue</CommonName>
+      <Location>
+        <Longitude>-2.909184</Longitude>
+        <Latitude>53.382339</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43051C</StopPointRef>
+      <CommonName>Rose Lane</CommonName>
+      <Location>
+        <Longitude>-2.907948</Longitude>
+        <Latitude>53.383607</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43045B</StopPointRef>
+      <CommonName>Reedale Road</CommonName>
+      <Location>
+        <Longitude>-2.910304</Longitude>
+        <Latitude>53.381980</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43045D</StopPointRef>
+      <CommonName>Rose Lane</CommonName>
+      <Location>
+        <Longitude>-2.912255</Longitude>
+        <Latitude>53.381812</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43076A</StopPointRef>
+      <CommonName>Gorsedale Road</CommonName>
+      <Location>
+        <Longitude>-2.914628</Longitude>
+        <Latitude>53.383808</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43045C</StopPointRef>
+      <CommonName>Rose Lane</CommonName>
+      <Location>
+        <Longitude>-2.911888</Longitude>
+        <Latitude>53.381536</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43076B</StopPointRef>
+      <CommonName>Meredale Road</CommonName>
+      <Location>
+        <Longitude>-2.914814</Longitude>
+        <Latitude>53.384076</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43075A</StopPointRef>
+      <CommonName>North Mossley Hill Road</CommonName>
+      <Location>
+        <Longitude>-2.921965</Longitude>
+        <Latitude>53.381729</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43074A</StopPointRef>
+      <CommonName>Park Avenue</CommonName>
+      <Location>
+        <Longitude>-2.929513</Longitude>
+        <Latitude>53.379719</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43075C</StopPointRef>
+      <CommonName>North Mossley Hill Road</CommonName>
+      <Location>
+        <Longitude>-2.921745</Longitude>
+        <Latitude>53.381982</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43074B</StopPointRef>
+      <CommonName>Park Avenue</CommonName>
+      <Location>
+        <Longitude>-2.929476</Longitude>
+        <Latitude>53.380061</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43073A</StopPointRef>
+      <CommonName>Irwell Lane</CommonName>
+      <Location>
+        <Longitude>-2.930635</Longitude>
+        <Latitude>53.376681</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43050C</StopPointRef>
+      <CommonName>Elmswood Road</CommonName>
+      <Location>
+        <Longitude>-2.933269</Longitude>
+        <Latitude>53.375465</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43073B</StopPointRef>
+      <CommonName>Carnatic Road</CommonName>
+      <Location>
+        <Longitude>-2.929762</Longitude>
+        <Latitude>53.378010</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43050A</StopPointRef>
+      <CommonName>Elmswood Road</CommonName>
+      <Location>
+        <Longitude>-2.932359</Longitude>
+        <Latitude>53.375113</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S43003A</StopPointRef>
+      <CommonName>Ashfield Road</CommonName>
+      <Location>
+        <Longitude>-2.934588</Longitude>
+        <Latitude>53.373927</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="rsf_0000">
+      <RouteLink id="rl_0000_1">
+        <From>
+          <StopPointRef>2800S41036B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S41035B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_2">
+        <From>
+          <StopPointRef>2800S41035B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S41034A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_3">
+        <From>
+          <StopPointRef>2800S41034A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40026B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_4">
+        <From>
+          <StopPointRef>2800S40026B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40025B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_5">
+        <From>
+          <StopPointRef>2800S40025B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40024B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_6">
+        <From>
+          <StopPointRef>2800S40024B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40092B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_7">
+        <From>
+          <StopPointRef>2800S40092B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40091B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_8">
+        <From>
+          <StopPointRef>2800S40091B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40033E</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_9">
+        <From>
+          <StopPointRef>2800S40033E</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40105A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_10">
+        <From>
+          <StopPointRef>2800S40105A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40057B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_11">
+        <From>
+          <StopPointRef>2800S40057B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40056A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_12">
+        <From>
+          <StopPointRef>2800S40056A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40055A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_13">
+        <From>
+          <StopPointRef>2800S40055A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40126A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_14">
+        <From>
+          <StopPointRef>2800S40126A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40054A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_15">
+        <From>
+          <StopPointRef>2800S40054A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40071B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_16">
+        <From>
+          <StopPointRef>2800S40071B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40072D</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_17">
+        <From>
+          <StopPointRef>2800S40072D</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40078D</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_18">
+        <From>
+          <StopPointRef>2800S40078D</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40077D</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_19">
+        <From>
+          <StopPointRef>2800S40077D</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40077C</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_20">
+        <From>
+          <StopPointRef>2800S40077C</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40076C</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_21">
+        <From>
+          <StopPointRef>2800S40076C</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S46054A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_22">
+        <From>
+          <StopPointRef>2800S46054A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S46053A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_23">
+        <From>
+          <StopPointRef>2800S46053A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S46052C</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_24">
+        <From>
+          <StopPointRef>2800S46052C</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S46051B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_25">
+        <From>
+          <StopPointRef>2800S46051B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S46078B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_26">
+        <From>
+          <StopPointRef>2800S46078B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S46079B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_27">
+        <From>
+          <StopPointRef>2800S46079B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S46065C</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_28">
+        <From>
+          <StopPointRef>2800S46065C</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S47068A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_29">
+        <From>
+          <StopPointRef>2800S47068A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S47069A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0000_30">
+        <From>
+          <StopPointRef>2800S47069A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S47067U</StopPointRef>
+        </To>
+      </RouteLink>
+    </RouteSection>
+    <RouteSection id="rsf_0001">
+      <RouteLink id="rl_0001_1">
+        <From>
+          <StopPointRef>2800S41036B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S41035B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_2">
+        <From>
+          <StopPointRef>2800S41035B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S41034A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_3">
+        <From>
+          <StopPointRef>2800S41034A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40026B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_4">
+        <From>
+          <StopPointRef>2800S40026B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40025B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_5">
+        <From>
+          <StopPointRef>2800S40025B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40024B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_6">
+        <From>
+          <StopPointRef>2800S40024B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40092B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_7">
+        <From>
+          <StopPointRef>2800S40092B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40091B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_8">
+        <From>
+          <StopPointRef>2800S40091B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40033E</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_9">
+        <From>
+          <StopPointRef>2800S40033E</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40105A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_10">
+        <From>
+          <StopPointRef>2800S40105A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40057B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_11">
+        <From>
+          <StopPointRef>2800S40057B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40056A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_12">
+        <From>
+          <StopPointRef>2800S40056A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40055A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_13">
+        <From>
+          <StopPointRef>2800S40055A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40126A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_14">
+        <From>
+          <StopPointRef>2800S40126A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40054A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_15">
+        <From>
+          <StopPointRef>2800S40054A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40071B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_16">
+        <From>
+          <StopPointRef>2800S40071B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40072D</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_17">
+        <From>
+          <StopPointRef>2800S40072D</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40078D</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_18">
+        <From>
+          <StopPointRef>2800S40078D</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40077D</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_19">
+        <From>
+          <StopPointRef>2800S40077D</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40077C</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_20">
+        <From>
+          <StopPointRef>2800S40077C</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S40076C</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_21">
+        <From>
+          <StopPointRef>2800S40076C</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S46054A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_22">
+        <From>
+          <StopPointRef>2800S46054A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S46053A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_23">
+        <From>
+          <StopPointRef>2800S46053A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S46052C</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_24">
+        <From>
+          <StopPointRef>2800S46052C</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S46051B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_25">
+        <From>
+          <StopPointRef>2800S46051B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S46078B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_26">
+        <From>
+          <StopPointRef>2800S46078B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S46079B</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_27">
+        <From>
+          <StopPointRef>2800S46079B</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S46065C</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_28">
+        <From>
+          <StopPointRef>2800S46065C</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S47068A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_29">
+        <From>
+          <StopPointRef>2800S47068A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S47069A</StopPointRef>
+        </To>
+      </RouteLink>
+      <RouteLink id="rl_0001_30">
+        <From>
+          <StopPointRef>2800S47069A</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S47067U</StopPointRef>
+        </To>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="rt_0000">
+      <Description>No route description available</Description>
+      <RouteSectionRef>rsf_0000</RouteSectionRef>
+    </Route>
+    <Route id="rt_0001">
+      <Description>No route description available</Description>
+      <RouteSectionRef>rsf_0001</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="js_1">
+      <JourneyPatternTimingLink id="jptl_1">
+        <From SequenceNumber="1">
+          <Activity>pickUp</Activity>
+          <StopPointRef>2800S41036B</StopPointRef>
+          <TimingStatus>principalTimingPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="2">
+          <StopPointRef>2800S41035B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_1</RouteLinkRef>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_2">
+        <From SequenceNumber="2">
+          <StopPointRef>2800S41035B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="3">
+          <StopPointRef>2800S41034A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_2</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_3">
+        <From SequenceNumber="3">
+          <StopPointRef>2800S41034A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="4">
+          <StopPointRef>2800S40026B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_3</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_4">
+        <From SequenceNumber="4">
+          <StopPointRef>2800S40026B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="5">
+          <StopPointRef>2800S40025B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_4</RouteLinkRef>
+        <RunTime>PT2M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_5">
+        <From SequenceNumber="5">
+          <StopPointRef>2800S40025B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="6">
+          <StopPointRef>2800S40024B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_5</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_6">
+        <From SequenceNumber="6">
+          <StopPointRef>2800S40024B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="7">
+          <StopPointRef>2800S40092B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_6</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_7">
+        <From SequenceNumber="7">
+          <StopPointRef>2800S40092B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="8">
+          <StopPointRef>2800S40091B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_7</RouteLinkRef>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_8">
+        <From SequenceNumber="8">
+          <StopPointRef>2800S40091B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="9">
+          <StopPointRef>2800S40033E</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_8</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_9">
+        <From SequenceNumber="9">
+          <StopPointRef>2800S40033E</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="10">
+          <StopPointRef>2800S40105A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_9</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_10">
+        <From SequenceNumber="10">
+          <StopPointRef>2800S40105A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="11">
+          <StopPointRef>2800S40057B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_10</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_11">
+        <From SequenceNumber="11">
+          <StopPointRef>2800S40057B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="12">
+          <StopPointRef>2800S40056A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_11</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_12">
+        <From SequenceNumber="12">
+          <StopPointRef>2800S40056A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="13">
+          <StopPointRef>2800S40055A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_12</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_13">
+        <From SequenceNumber="13">
+          <StopPointRef>2800S40055A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="14">
+          <StopPointRef>2800S40126A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_13</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_14">
+        <From SequenceNumber="14">
+          <StopPointRef>2800S40126A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="15">
+          <StopPointRef>2800S40054A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_14</RouteLinkRef>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_15">
+        <From SequenceNumber="15">
+          <StopPointRef>2800S40054A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="16">
+          <StopPointRef>2800S40071B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_15</RouteLinkRef>
+        <RunTime>PT2M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_16">
+        <From SequenceNumber="16">
+          <StopPointRef>2800S40071B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="17">
+          <StopPointRef>2800S40072D</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_16</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_17">
+        <From SequenceNumber="17">
+          <StopPointRef>2800S40072D</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="18">
+          <StopPointRef>2800S40078D</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_17</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_18">
+        <From SequenceNumber="18">
+          <StopPointRef>2800S40078D</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="19">
+          <StopPointRef>2800S40077D</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_18</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_19">
+        <From SequenceNumber="19">
+          <StopPointRef>2800S40077D</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="20">
+          <StopPointRef>2800S40077C</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_19</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_20">
+        <From SequenceNumber="20">
+          <StopPointRef>2800S40077C</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="21">
+          <StopPointRef>2800S40076C</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_20</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_21">
+        <From SequenceNumber="21">
+          <StopPointRef>2800S40076C</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="22">
+          <StopPointRef>2800S46054A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_21</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_22">
+        <From SequenceNumber="22">
+          <StopPointRef>2800S46054A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="23">
+          <StopPointRef>2800S46053A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_22</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_23">
+        <From SequenceNumber="23">
+          <StopPointRef>2800S46053A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="24">
+          <StopPointRef>2800S46052C</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_23</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_24">
+        <From SequenceNumber="24">
+          <StopPointRef>2800S46052C</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="25">
+          <StopPointRef>2800S46051B</StopPointRef>
+          <TimingStatus>principalTimingPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_24</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_25">
+        <From SequenceNumber="25">
+          <StopPointRef>2800S46051B</StopPointRef>
+          <TimingStatus>principalTimingPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="26">
+          <StopPointRef>2800S46078B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_25</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_26">
+        <From SequenceNumber="26">
+          <StopPointRef>2800S46078B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="27">
+          <StopPointRef>2800S46079B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_26</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_27">
+        <From SequenceNumber="27">
+          <StopPointRef>2800S46079B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="28">
+          <StopPointRef>2800S46065C</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_27</RouteLinkRef>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_28">
+        <From SequenceNumber="28">
+          <StopPointRef>2800S46065C</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="29">
+          <StopPointRef>2800S47068A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_28</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_29">
+        <From SequenceNumber="29">
+          <StopPointRef>2800S47068A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="30">
+          <StopPointRef>2800S47069A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_29</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_30">
+        <From SequenceNumber="30">
+          <StopPointRef>2800S47069A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="31">
+          <Activity>setDown</Activity>
+          <StopPointRef>2800S47067U</StopPointRef>
+          <TimingStatus>principalTimingPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_30</RouteLinkRef>
+        <RunTime>PT2M</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+    <JourneyPatternSection id="js_2">
+      <JourneyPatternTimingLink id="jptl_31">
+        <From SequenceNumber="1">
+          <Activity>pickUp</Activity>
+          <StopPointRef>2800S41036B</StopPointRef>
+          <TimingStatus>principalTimingPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="2">
+          <StopPointRef>2800S41035B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_1</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_32">
+        <From SequenceNumber="2">
+          <StopPointRef>2800S41035B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="3">
+          <StopPointRef>2800S41034A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_2</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_33">
+        <From SequenceNumber="3">
+          <StopPointRef>2800S41034A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="4">
+          <StopPointRef>2800S40026B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_3</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_34">
+        <From SequenceNumber="4">
+          <StopPointRef>2800S40026B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="5">
+          <StopPointRef>2800S40025B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_4</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_35">
+        <From SequenceNumber="5">
+          <StopPointRef>2800S40025B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="6">
+          <StopPointRef>2800S40024B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_5</RouteLinkRef>
+        <RunTime>PT2M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_36">
+        <From SequenceNumber="6">
+          <StopPointRef>2800S40024B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="7">
+          <StopPointRef>2800S40092B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_6</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_37">
+        <From SequenceNumber="7">
+          <StopPointRef>2800S40092B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="8">
+          <StopPointRef>2800S40091B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_7</RouteLinkRef>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_38">
+        <From SequenceNumber="8">
+          <StopPointRef>2800S40091B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="9">
+          <StopPointRef>2800S40033E</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_8</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_39">
+        <From SequenceNumber="9">
+          <StopPointRef>2800S40033E</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="10">
+          <StopPointRef>2800S40105A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_9</RouteLinkRef>
+        <RunTime>PT2M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_40">
+        <From SequenceNumber="10">
+          <StopPointRef>2800S40105A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="11">
+          <StopPointRef>2800S40057B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_10</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_41">
+        <From SequenceNumber="11">
+          <StopPointRef>2800S40057B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="12">
+          <StopPointRef>2800S40056A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_11</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_42">
+        <From SequenceNumber="12">
+          <StopPointRef>2800S40056A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="13">
+          <StopPointRef>2800S40055A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_12</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_43">
+        <From SequenceNumber="13">
+          <StopPointRef>2800S40055A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="14">
+          <StopPointRef>2800S40126A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_13</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_44">
+        <From SequenceNumber="14">
+          <StopPointRef>2800S40126A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="15">
+          <StopPointRef>2800S40054A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_14</RouteLinkRef>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_45">
+        <From SequenceNumber="15">
+          <StopPointRef>2800S40054A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="16">
+          <StopPointRef>2800S40071B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_15</RouteLinkRef>
+        <RunTime>PT3M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_46">
+        <From SequenceNumber="16">
+          <StopPointRef>2800S40071B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="17">
+          <StopPointRef>2800S40072D</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_16</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_47">
+        <From SequenceNumber="17">
+          <StopPointRef>2800S40072D</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="18">
+          <StopPointRef>2800S40078D</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_17</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_48">
+        <From SequenceNumber="18">
+          <StopPointRef>2800S40078D</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="19">
+          <StopPointRef>2800S40077D</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_18</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_49">
+        <From SequenceNumber="19">
+          <StopPointRef>2800S40077D</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="20">
+          <StopPointRef>2800S40077C</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_19</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_50">
+        <From SequenceNumber="20">
+          <StopPointRef>2800S40077C</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="21">
+          <StopPointRef>2800S40076C</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_20</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_51">
+        <From SequenceNumber="21">
+          <StopPointRef>2800S40076C</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="22">
+          <StopPointRef>2800S46054A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_21</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_52">
+        <From SequenceNumber="22">
+          <StopPointRef>2800S46054A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="23">
+          <StopPointRef>2800S46053A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_22</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_53">
+        <From SequenceNumber="23">
+          <StopPointRef>2800S46053A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="24">
+          <StopPointRef>2800S46052C</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_23</RouteLinkRef>
+        <RunTime>PT2M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_54">
+        <From SequenceNumber="24">
+          <StopPointRef>2800S46052C</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="25">
+          <StopPointRef>2800S46051B</StopPointRef>
+          <TimingStatus>principalTimingPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_24</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_55">
+        <From SequenceNumber="25">
+          <StopPointRef>2800S46051B</StopPointRef>
+          <TimingStatus>principalTimingPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="26">
+          <StopPointRef>2800S46078B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_25</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_56">
+        <From SequenceNumber="26">
+          <StopPointRef>2800S46078B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="27">
+          <StopPointRef>2800S46079B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_26</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_57">
+        <From SequenceNumber="27">
+          <StopPointRef>2800S46079B</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="28">
+          <StopPointRef>2800S46065C</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_27</RouteLinkRef>
+        <RunTime>PT0S</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_58">
+        <From SequenceNumber="28">
+          <StopPointRef>2800S46065C</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="29">
+          <StopPointRef>2800S47068A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_28</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_59">
+        <From SequenceNumber="29">
+          <StopPointRef>2800S47068A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="30">
+          <StopPointRef>2800S47069A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_29</RouteLinkRef>
+        <RunTime>PT1M</RunTime>
+      </JourneyPatternTimingLink>
+      <JourneyPatternTimingLink id="jptl_60">
+        <From SequenceNumber="30">
+          <StopPointRef>2800S47069A</StopPointRef>
+          <TimingStatus>otherPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="31">
+          <Activity>setDown</Activity>
+          <StopPointRef>2800S47067U</StopPointRef>
+          <TimingStatus>principalTimingPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0001_30</RouteLinkRef>
+        <RunTime>PT2M</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="tkt_oid">
+      <NationalOperatorCode>AMSY</NationalOperatorCode>
+      <OperatorCode>ANW</OperatorCode>
+      <OperatorShortName>Arriva Merseyside</OperatorShortName>
+      <LicenceNumber>PC0001141</LicenceNumber>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>PC0001141:409</ServiceCode>
+      <Lines>
+        <Line id="AMSY:PC0001141:409:68">
+          <LineName>68</LineName>
+          <OutboundDescription>
+            <Description>Bootle  to Aigburth Vale</Description>
+          </OutboundDescription>
+          <InboundDescription>
+            <Description>Aigburth Vale to Bootle </Description>
+          </InboundDescription>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2026-01-04</StartDate>
+      </OperatingPeriod>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfOperation>
+            <GoodFriday />
+            <LateSummerBankHolidayNotScotland />
+            <MayDay />
+            <EasterMonday />
+            <SpringBank />
+            <ChristmasDayHoliday />
+            <BoxingDayHoliday />
+            <NewYearsDayHoliday />
+          </DaysOfOperation>
+          <DaysOfNonOperation>
+            <ChristmasDay />
+            <BoxingDay />
+            <NewYearsDay />
+            <ChristmasEve />
+            <NewYearsEve />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <RegisteredOperatorRef>tkt_oid</RegisteredOperatorRef>
+      <PublicUse>true</PublicUse>
+      <StandardService>
+        <Origin>Bootle </Origin>
+        <Destination>Aigburth Vale</Destination>
+        <JourneyPattern id="jp_1">
+          <DestinationDisplay>Bootle New Strand Station</DestinationDisplay>
+          <OperatorRef>tkt_oid</OperatorRef>
+          <Direction>inbound</Direction>
+          <RouteRef>rt_0000</RouteRef>
+          <JourneyPatternSectionRefs>js_1</JourneyPatternSectionRefs>
+        </JourneyPattern>
+        <JourneyPattern id="jp_2">
+          <DestinationDisplay>Bootle New Strand Station</DestinationDisplay>
+          <OperatorRef>tkt_oid</OperatorRef>
+          <Direction>inbound</Direction>
+          <RouteRef>rt_0001</RouteRef>
+          <JourneyPatternSectionRefs>js_2</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>tkt_oid</OperatorRef>
+      <Operational>
+        <TicketMachine>
+          <JourneyCode>5002</JourneyCode>
+        </TicketMachine>
+      </Operational>
+      <VehicleJourneyCode>vj_1</VehicleJourneyCode>
+      <ServiceRef>PC0001141:409</ServiceRef>
+      <LineRef>AMSY:PC0001141:409:68</LineRef>
+      <JourneyPatternRef>jp_1</JourneyPatternRef>
+      <DepartureTime>07:05:00</DepartureTime>
+    </VehicleJourney>
+    <VehicleJourney>
+      <OperatorRef>tkt_oid</OperatorRef>
+      <Operational>
+        <TicketMachine>
+          <JourneyCode>5010</JourneyCode>
+        </TicketMachine>
+      </Operational>
+      <VehicleJourneyCode>vj_2</VehicleJourneyCode>
+      <ServiceRef>PC0001141:409</ServiceRef>
+      <LineRef>AMSY:PC0001141:409:68</LineRef>
+      <JourneyPatternRef>jp_2</JourneyPatternRef>
+      <DepartureTime>11:01:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>

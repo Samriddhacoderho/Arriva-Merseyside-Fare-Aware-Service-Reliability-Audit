@@ -1,0 +1,58 @@
+{
+  "generated_at_utc": "2026-07-12T09:01:44Z",
+  "rng_seed": 42,
+  "n_seed_merseytravel": 25,
+  "n_synthetic": 2000,
+  "n_combined": 2025,
+  "amsy_line_count": 200,
+  "anwe_line_count": 13,
+  "anwe_lines": [
+    "82A",
+    "79C",
+    "61",
+    "110",
+    "P5",
+    "X4",
+    "P2",
+    "X30",
+    "2",
+    "1",
+    "P10",
+    "P12",
+    "3A"
+  ],
+  "stop_count_sampled": 3605,
+  "window_start": "2026-01-01",
+  "window_days": 190,
+  "synthetic_reason_distribution": {
+    "emergencyEngineeringWork": 115,
+    "incident": 98,
+    "congestion": 112,
+    "maintenanceWork": 252,
+    "roadClosed": 209,
+    "roadworks": 862,
+    "routeDiversion": 82,
+    "insufficientDemand": 41,
+    "unknown": 38,
+    "specialEvent": 121,
+    "constructionWork": 70
+  },
+  "synthetic_operator_noc_distribution": {
+    "AMSY": 920,
+    "ANWE": 1080
+  },
+  "reason_weights_used": {
+    "roadworks": 0.45,
+    "maintenanceWork": 0.12,
+    "roadClosed": 0.1,
+    "emergencyEngineeringWork": 0.06,
+    "specialEvent": 0.06,
+    "congestion": 0.05,
+    "incident": 0.05,
+    "routeDiversion": 0.04,
+    "constructionWork": 0.03,
+    "insufficientDemand": 0.02,
+    "unknown": 0.02
+  },
+  "method": "Real Merseytravel BODS catalogue events retained as seed; additional events synthesised with services/stops sampled from published AMSY TransXChange and ANWE AVL line observations."
+}

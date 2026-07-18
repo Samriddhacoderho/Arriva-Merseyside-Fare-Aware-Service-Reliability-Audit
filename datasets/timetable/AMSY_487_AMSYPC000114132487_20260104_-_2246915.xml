@@ -1,0 +1,1122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TransXChange xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" SchemaVersion="2.4" CreationDateTime="2024-07-15T08:53:40" ModificationDateTime="2026-04-16T14:10:09" Modification="revise" RevisionNumber="51" FileName="AMSY_487_AMSYPC000114132487_20260104_-_2246915.xml" xmlns="http://www.transxchange.org.uk/">
+  <StopPoints>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S42029A</StopPointRef>
+      <CommonName>Whitechapel</CommonName>
+      <Location>
+        <Longitude>-2.985149</Longitude>
+        <Latitude>53.406977</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S42042C</StopPointRef>
+      <CommonName>Hood street</CommonName>
+      <Location>
+        <Longitude>-2.983506</Longitude>
+        <Latitude>53.408141</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S42070A</StopPointRef>
+      <CommonName>Preston Street</CommonName>
+      <Location>
+        <Longitude>-2.984219</Longitude>
+        <Latitude>53.408387</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S22010C</StopPointRef>
+      <CommonName>Hinson Street</CommonName>
+      <Location>
+        <Longitude>-3.016026</Longitude>
+        <Latitude>53.391581</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S22043J</StopPointRef>
+      <CommonName>Birkenhead Bus Station</CommonName>
+      <Location>
+        <Longitude>-3.022619</Longitude>
+        <Latitude>53.391210</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S22043E</StopPointRef>
+      <CommonName>Birkenhead Bus Station</CommonName>
+      <Location>
+        <Longitude>-3.022619</Longitude>
+        <Latitude>53.391210</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S22033H</StopPointRef>
+      <CommonName>Catherine Street</CommonName>
+      <Location>
+        <Longitude>-3.029066</Longitude>
+        <Latitude>53.390417</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S22029B</StopPointRef>
+      <CommonName>Maple Street</CommonName>
+      <Location>
+        <Longitude>-3.027336</Longitude>
+        <Latitude>53.386046</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S22005C</StopPointRef>
+      <CommonName>Grange Road</CommonName>
+      <Location>
+        <Longitude>-3.020064</Longitude>
+        <Latitude>53.390000</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20001D</StopPointRef>
+      <CommonName>Clifton Crescent</CommonName>
+      <Location>
+        <Longitude>-3.022714</Longitude>
+        <Latitude>53.388917</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20057B</StopPointRef>
+      <CommonName>Frodsham Street</CommonName>
+      <Location>
+        <Longitude>-3.023658</Longitude>
+        <Latitude>53.383147</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S22011A</StopPointRef>
+      <CommonName>Whetstone Lane</CommonName>
+      <Location>
+        <Longitude>-3.029182</Longitude>
+        <Latitude>53.388376</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20058B</StopPointRef>
+      <CommonName>Seymour Street</CommonName>
+      <Location>
+        <Longitude>-3.024303</Longitude>
+        <Latitude>53.381829</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S22029A</StopPointRef>
+      <CommonName>Maple Street</CommonName>
+      <Location>
+        <Longitude>-3.027756</Longitude>
+        <Latitude>53.385997</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20057A</StopPointRef>
+      <CommonName>Whetstone Lane</CommonName>
+      <Location>
+        <Longitude>-3.023714</Longitude>
+        <Latitude>53.383578</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20058A</StopPointRef>
+      <CommonName>Whitfield Street</CommonName>
+      <Location>
+        <Longitude>-3.024487</Longitude>
+        <Latitude>53.381980</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20022A</StopPointRef>
+      <CommonName>Elm Road</CommonName>
+      <Location>
+        <Longitude>-3.025213</Longitude>
+        <Latitude>53.379008</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20060B</StopPointRef>
+      <CommonName>Dial Road</CommonName>
+      <Location>
+        <Longitude>-3.025085</Longitude>
+        <Latitude>53.377463</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20022B</StopPointRef>
+      <CommonName>Church Terrace</CommonName>
+      <Location>
+        <Longitude>-3.025509</Longitude>
+        <Latitude>53.379463</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20060A</StopPointRef>
+      <CommonName>Dial Road</CommonName>
+      <Location>
+        <Longitude>-3.025291</Longitude>
+        <Latitude>53.377263</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20056A</StopPointRef>
+      <CommonName>Bebington Road</CommonName>
+      <Location>
+        <Longitude>-3.025530</Longitude>
+        <Latitude>53.374052</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20059B</StopPointRef>
+      <CommonName>St Georges Avenue</CommonName>
+      <Location>
+        <Longitude>-3.026519</Longitude>
+        <Latitude>53.372066</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20056C</StopPointRef>
+      <CommonName>Prenton Road East</CommonName>
+      <Location>
+        <Longitude>-3.025260</Longitude>
+        <Latitude>53.375358</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20047C</StopPointRef>
+      <CommonName>Bedford Drive</CommonName>
+      <Location>
+        <Longitude>-3.027142</Longitude>
+        <Latitude>53.370487</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20032E</StopPointRef>
+      <CommonName>Borough Road</CommonName>
+      <Location>
+        <Longitude>-3.027441</Longitude>
+        <Latitude>53.368552</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20059A</StopPointRef>
+      <CommonName>Irvine Road</CommonName>
+      <Location>
+        <Longitude>-3.026515</Longitude>
+        <Latitude>53.372533</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20047A</StopPointRef>
+      <CommonName>Cressington Avenue</CommonName>
+      <Location>
+        <Longitude>-3.027340</Longitude>
+        <Latitude>53.370594</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20032B</StopPointRef>
+      <CommonName>Borough Road</CommonName>
+      <Location>
+        <Longitude>-3.027679</Longitude>
+        <Latitude>53.368415</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20033A</StopPointRef>
+      <CommonName>Brimstage Avenue</CommonName>
+      <Location>
+        <Longitude>-3.027361</Longitude>
+        <Latitude>53.365820</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20033B</StopPointRef>
+      <CommonName>Cavendish Drive</CommonName>
+      <Location>
+        <Longitude>-3.027159</Longitude>
+        <Latitude>53.366173</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20034B</StopPointRef>
+      <CommonName>Thornton Avenue</CommonName>
+      <Location>
+        <Longitude>-3.026662</Longitude>
+        <Latitude>53.363651</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20035B</StopPointRef>
+      <CommonName>Kings Lane</CommonName>
+      <Location>
+        <Longitude>-3.026366</Longitude>
+        <Latitude>53.361972</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20036A</StopPointRef>
+      <CommonName>Bentfield Gardens</CommonName>
+      <Location>
+        <Longitude>-3.025554</Longitude>
+        <Latitude>53.358186</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20034A</StopPointRef>
+      <CommonName>Thornton Avenue</CommonName>
+      <Location>
+        <Longitude>-3.026935</Longitude>
+        <Latitude>53.363729</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20035A</StopPointRef>
+      <CommonName>Broadway</CommonName>
+      <Location>
+        <Longitude>-3.026479</Longitude>
+        <Latitude>53.361019</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27016B</StopPointRef>
+      <CommonName>Roland Avenue</CommonName>
+      <Location>
+        <Longitude>-3.024249</Longitude>
+        <Latitude>53.354503</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27017B</StopPointRef>
+      <CommonName>Waterfield Close</CommonName>
+      <Location>
+        <Longitude>-3.023232</Longitude>
+        <Latitude>53.352831</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S20036B</StopPointRef>
+      <CommonName>Bentfield Gardens</CommonName>
+      <Location>
+        <Longitude>-3.025891</Longitude>
+        <Latitude>53.358453</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27016A</StopPointRef>
+      <CommonName>Village Road</CommonName>
+      <Location>
+        <Longitude>-3.024864</Longitude>
+        <Latitude>53.355720</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27018B</StopPointRef>
+      <CommonName>Gorseville Road</CommonName>
+      <Location>
+        <Longitude>-3.021895</Longitude>
+        <Latitude>53.350936</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27019A</StopPointRef>
+      <CommonName>Brackenwood Primary School</CommonName>
+      <Location>
+        <Longitude>-3.017780</Longitude>
+        <Latitude>53.349749</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27017A</StopPointRef>
+      <CommonName>Waterfield Close</CommonName>
+      <Location>
+        <Longitude>-3.023316</Longitude>
+        <Latitude>53.352587</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27018A</StopPointRef>
+      <CommonName>Brackenwood Road</CommonName>
+      <Location>
+        <Longitude>-3.022337</Longitude>
+        <Latitude>53.351211</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27019B</StopPointRef>
+      <CommonName>Brackenwood Primary School</CommonName>
+      <Location>
+        <Longitude>-3.019011</Longitude>
+        <Latitude>53.349703</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27020A</StopPointRef>
+      <CommonName>Cross Lane</CommonName>
+      <Location>
+        <Longitude>-3.013229</Longitude>
+        <Latitude>53.349141</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27021A</StopPointRef>
+      <CommonName>Pulford Road</CommonName>
+      <Location>
+        <Longitude>-3.010227</Longitude>
+        <Latitude>53.349885</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27020B</StopPointRef>
+      <CommonName>Wirral Grammar School for Girls</CommonName>
+      <Location>
+        <Longitude>-3.015454</Longitude>
+        <Latitude>53.349230</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27002A</StopPointRef>
+      <CommonName>The Village</CommonName>
+      <Location>
+        <Longitude>-3.005590</Longitude>
+        <Latitude>53.352019</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27021B</StopPointRef>
+      <CommonName>Abbots Drive</CommonName>
+      <Location>
+        <Longitude>-3.010446</Longitude>
+        <Latitude>53.349632</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27003B</StopPointRef>
+      <CommonName>Civic Way</CommonName>
+      <Location>
+        <Longitude>-3.003899</Longitude>
+        <Latitude>53.351008</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27004B</StopPointRef>
+      <CommonName>The Wiend</CommonName>
+      <Location>
+        <Longitude>-3.002746</Longitude>
+        <Latitude>53.349274</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27003A</StopPointRef>
+      <CommonName>Civic Way</CommonName>
+      <Location>
+        <Longitude>-3.004596</Longitude>
+        <Latitude>53.351290</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27004A</StopPointRef>
+      <CommonName>Civic Way</CommonName>
+      <Location>
+        <Longitude>-3.003590</Longitude>
+        <Latitude>53.348737</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27005B</StopPointRef>
+      <CommonName>Quarry Road East</CommonName>
+      <Location>
+        <Longitude>-3.003526</Longitude>
+        <Latitude>53.345384</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27005A</StopPointRef>
+      <CommonName>Stanton Road</CommonName>
+      <Location>
+        <Longitude>-3.003734</Longitude>
+        <Latitude>53.345284</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27006A</StopPointRef>
+      <CommonName>Tudor Avenue</CommonName>
+      <Location>
+        <Longitude>-3.004815</Longitude>
+        <Latitude>53.342047</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27006B</StopPointRef>
+      <CommonName>Parkfield Road</CommonName>
+      <Location>
+        <Longitude>-3.004182</Longitude>
+        <Latitude>53.342619</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27008B</StopPointRef>
+      <CommonName>Beechway</CommonName>
+      <Location>
+        <Longitude>-3.010130</Longitude>
+        <Latitude>53.341346</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27008A</StopPointRef>
+      <CommonName>Beechway</CommonName>
+      <Location>
+        <Longitude>-3.011032</Longitude>
+        <Latitude>53.341375</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27009B</StopPointRef>
+      <CommonName>Old Clatterbridge Road</CommonName>
+      <Location>
+        <Longitude>-3.014161</Longitude>
+        <Latitude>53.340323</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27009C</StopPointRef>
+      <CommonName>M53</CommonName>
+      <Location>
+        <Longitude>-3.018020</Longitude>
+        <Latitude>53.339032</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27010B</StopPointRef>
+      <CommonName>Clatterbridge Hospital</CommonName>
+      <Location>
+        <Longitude>-3.020083</Longitude>
+        <Latitude>53.333585</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27009A</StopPointRef>
+      <CommonName>Needwood Drive</CommonName>
+      <Location>
+        <Longitude>-3.013077</Longitude>
+        <Latitude>53.340845</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27086B</StopPointRef>
+      <CommonName>Clatterbridge Road</CommonName>
+      <Location>
+        <Longitude>-3.025230</Longitude>
+        <Latitude>53.324642</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S27086C</StopPointRef>
+      <CommonName>Willaston Road</CommonName>
+      <Location>
+        <Longitude>-3.025137</Longitude>
+        <Latitude>53.324526</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S28040B</StopPointRef>
+      <CommonName>Ivy Cottage</CommonName>
+      <Location>
+        <Longitude>-3.037921</Longitude>
+        <Latitude>53.323597</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S28040A</StopPointRef>
+      <CommonName>Ivy Cottage</CommonName>
+      <Location>
+        <Longitude>-3.037701</Longitude>
+        <Latitude>53.323815</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S28041B</StopPointRef>
+      <CommonName>Manor Road</CommonName>
+      <Location>
+        <Longitude>-3.045407</Longitude>
+        <Latitude>53.320898</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S28041A</StopPointRef>
+      <CommonName>Church Road</CommonName>
+      <Location>
+        <Longitude>-3.044630</Longitude>
+        <Latitude>53.321031</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S28042B</StopPointRef>
+      <CommonName>Oxford Drive</CommonName>
+      <Location>
+        <Longitude>-3.050897</Longitude>
+        <Latitude>53.317668</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S28043B</StopPointRef>
+      <CommonName>Parkgate Lane</CommonName>
+      <Location>
+        <Longitude>-3.053376</Longitude>
+        <Latitude>53.315299</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S28042A</StopPointRef>
+      <CommonName>Oxford Drive</CommonName>
+      <Location>
+        <Longitude>-3.051644</Longitude>
+        <Latitude>53.317490</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S28043A</StopPointRef>
+      <CommonName>Parkgate Lane</CommonName>
+      <Location>
+        <Longitude>-3.053473</Longitude>
+        <Latitude>53.315559</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S28044C</StopPointRef>
+      <CommonName>Liverpool Road</CommonName>
+      <Location>
+        <Longitude>-3.052931</Longitude>
+        <Latitude>53.311861</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S28081B</StopPointRef>
+      <CommonName>County Boundary</CommonName>
+      <Location>
+        <Longitude>-3.052700</Longitude>
+        <Latitude>53.310397</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S28044B</StopPointRef>
+      <CommonName>LIverpool Road</CommonName>
+      <Location>
+        <Longitude>-3.053206</Longitude>
+        <Latitude>53.312047</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>2800S28081A</StopPointRef>
+      <CommonName>County Boundary</CommonName>
+      <Location>
+        <Longitude>-3.052849</Longitude>
+        <Latitude>53.310333</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1368</StopPointRef>
+      <CommonName>Red Gates</CommonName>
+      <Location>
+        <Longitude>-3.053994</Longitude>
+        <Latitude>53.305667</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1412</StopPointRef>
+      <CommonName>Red Gates</CommonName>
+      <Location>
+        <Longitude>-3.053708</Longitude>
+        <Latitude>53.305633</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1346</StopPointRef>
+      <CommonName>Chester High Road</CommonName>
+      <Location>
+        <Longitude>-3.053732</Longitude>
+        <Latitude>53.302918</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1344</StopPointRef>
+      <CommonName>Clayhill</CommonName>
+      <Location>
+        <Longitude>-3.056226</Longitude>
+        <Latitude>53.299426</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1342</StopPointRef>
+      <CommonName>Westlands Close</CommonName>
+      <Location>
+        <Longitude>-3.058111</Longitude>
+        <Latitude>53.297351</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1340</StopPointRef>
+      <CommonName>Drake Road</CommonName>
+      <Location>
+        <Longitude>-3.061040</Longitude>
+        <Latitude>53.295671</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1345</StopPointRef>
+      <CommonName>Chester High Road</CommonName>
+      <Location>
+        <Longitude>-3.053721</Longitude>
+        <Latitude>53.303098</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP17375</StopPointRef>
+      <CommonName>Clayhill</CommonName>
+      <Location>
+        <Longitude>-3.056512</Longitude>
+        <Latitude>53.299451</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1338</StopPointRef>
+      <CommonName>New Hayes</CommonName>
+      <Location>
+        <Longitude>-3.063972</Longitude>
+        <Latitude>53.294099</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1337</StopPointRef>
+      <CommonName>Malt Shovel Inn</CommonName>
+      <Location>
+        <Longitude>-3.064610</Longitude>
+        <Latitude>53.293212</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1343</StopPointRef>
+      <CommonName>Westlands Close</CommonName>
+      <Location>
+        <Longitude>-3.057660</Longitude>
+        <Latitude>53.297948</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1341</StopPointRef>
+      <CommonName>Drake Road</CommonName>
+      <Location>
+        <Longitude>-3.060423</Longitude>
+        <Latitude>53.296189</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1335</StopPointRef>
+      <CommonName>Railway Station</CommonName>
+      <Location>
+        <Longitude>-3.063411</Longitude>
+        <Latitude>53.291443</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1339</StopPointRef>
+      <CommonName>Drake Road</CommonName>
+      <Location>
+        <Longitude>-3.062273</Longitude>
+        <Latitude>53.295184</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1336</StopPointRef>
+      <CommonName>Malt Shovel Inn</CommonName>
+      <Location>
+        <Longitude>-3.064850</Longitude>
+        <Latitude>53.293228</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1334</StopPointRef>
+      <CommonName>Tesco</CommonName>
+      <Location>
+        <Longitude>-3.063627</Longitude>
+        <Latitude>53.289877</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1408</StopPointRef>
+      <CommonName>Breezehill Road</CommonName>
+      <Location>
+        <Longitude>-3.056883</Longitude>
+        <Latitude>53.290171</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1324</StopPointRef>
+      <CommonName>The Quillet</CommonName>
+      <Location>
+        <Longitude>-3.055089</Longitude>
+        <Latitude>53.288578</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1329</StopPointRef>
+      <CommonName>Health Centre</CommonName>
+      <Location>
+        <Longitude>-3.054122</Longitude>
+        <Latitude>53.287085</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP17241</StopPointRef>
+      <CommonName>Royal Oak</CommonName>
+      <Location>
+        <Longitude>-3.052919</Longitude>
+        <Latitude>53.283922</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1325</StopPointRef>
+      <CommonName>The Quillet</CommonName>
+      <Location>
+        <Longitude>-3.055312</Longitude>
+        <Latitude>53.288522</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1330</StopPointRef>
+      <CommonName>Health Centre</CommonName>
+      <Location>
+        <Longitude>-3.054375</Longitude>
+        <Latitude>53.287029</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1306</StopPointRef>
+      <CommonName>Talbot Avenue</CommonName>
+      <Location>
+        <Longitude>-3.058579</Longitude>
+        <Latitude>53.284133</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP17239</StopPointRef>
+      <CommonName>Thirlmere Road</CommonName>
+      <Location>
+        <Longitude>-3.062037</Longitude>
+        <Latitude>53.283851</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1328</StopPointRef>
+      <CommonName>Royal Oak</CommonName>
+      <Location>
+        <Longitude>-3.053115</Longitude>
+        <Latitude>53.283975</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1309</StopPointRef>
+      <CommonName>West Vale Shops</CommonName>
+      <Location>
+        <Longitude>-3.065166</Longitude>
+        <Latitude>53.283005</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1307</StopPointRef>
+      <CommonName>Talbot Avenue</CommonName>
+      <Location>
+        <Longitude>-3.058402</Longitude>
+        <Latitude>53.284233</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1308</StopPointRef>
+      <CommonName>Thirlmere Road</CommonName>
+      <Location>
+        <Longitude>-3.062130</Longitude>
+        <Latitude>53.283985</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1312</StopPointRef>
+      <CommonName>West Vale</CommonName>
+      <Location>
+        <Longitude>-3.064787</Longitude>
+        <Latitude>53.281021</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1313</StopPointRef>
+      <CommonName>Marshlands Road</CommonName>
+      <Location>
+        <Longitude>-3.062763</Longitude>
+        <Latitude>53.279269</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1310</StopPointRef>
+      <CommonName>West Vale Shops</CommonName>
+      <Location>
+        <Longitude>-3.065155</Longitude>
+        <Latitude>53.283184</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1315</StopPointRef>
+      <CommonName>Colliery Green Close</CommonName>
+      <Location>
+        <Longitude>-3.060451</Longitude>
+        <Latitude>53.278561</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1316</StopPointRef>
+      <CommonName>Brook Well</CommonName>
+      <Location>
+        <Longitude>-3.057282</Longitude>
+        <Latitude>53.277169</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1317</StopPointRef>
+      <CommonName>Turrocks Croft</CommonName>
+      <Location>
+        <Longitude>-3.058101</Longitude>
+        <Latitude>53.279373</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1311</StopPointRef>
+      <CommonName>West Vale</CommonName>
+      <Location>
+        <Longitude>-3.065026</Longitude>
+        <Latitude>53.280992</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1319</StopPointRef>
+      <CommonName>The Court</CommonName>
+      <Location>
+        <Longitude>-3.057101</Longitude>
+        <Latitude>53.281377</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1303</StopPointRef>
+      <CommonName>School Lane</CommonName>
+      <Location>
+        <Longitude>-3.051641</Longitude>
+        <Latitude>53.279511</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1314</StopPointRef>
+      <CommonName>Marshlands Road</CommonName>
+      <Location>
+        <Longitude>-3.062972</Longitude>
+        <Latitude>53.279222</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP18914</StopPointRef>
+      <CommonName>Colliery Green Close</CommonName>
+      <Location>
+        <Longitude>-3.060814</Longitude>
+        <Latitude>53.278666</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP19007</StopPointRef>
+      <CommonName>Brook Well</CommonName>
+      <Location>
+        <Longitude>-3.057145</Longitude>
+        <Latitude>53.277062</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1318</StopPointRef>
+      <CommonName>Turrocks Croft</CommonName>
+      <Location>
+        <Longitude>-3.057863</Longitude>
+        <Latitude>53.279438</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1382</StopPointRef>
+      <CommonName>The Court</CommonName>
+      <Location>
+        <Longitude>-3.056963</Longitude>
+        <Latitude>53.281271</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1301</StopPointRef>
+      <CommonName>The Wheatsheaf</CommonName>
+      <Location>
+        <Longitude>-3.047750</Longitude>
+        <Latitude>53.276183</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP19024</StopPointRef>
+      <CommonName>School Lane</CommonName>
+      <Location>
+        <Longitude>-3.051634</Longitude>
+        <Latitude>53.279223</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1425</StopPointRef>
+      <CommonName>Ness Botanic Gardens</CommonName>
+      <Location>
+        <Longitude>-3.041584</Longitude>
+        <Latitude>53.272399</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1302</StopPointRef>
+      <CommonName>The Wheatsheaf</CommonName>
+      <Location>
+        <Longitude>-3.048628</Longitude>
+        <Latitude>53.276517</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1379</StopPointRef>
+      <CommonName>Ness Botanic Gardens</CommonName>
+      <Location>
+        <Longitude>-3.041838</Longitude>
+        <Latitude>53.272352</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+    <AnnotatedStopPointRef>
+      <StopPointRef>0610EP1424</StopPointRef>
+      <CommonName>Neston Road Turning Circle</CommonName>
+      <Location>
+        <Longitude>-3.040410</Longitude>
+        <Latitude>53.269739</Latitude>
+      </Location>
+    </AnnotatedStopPointRef>
+  </StopPoints>
+  <RouteSections>
+    <RouteSection id="rsf_0000">
+      <RouteLink id="rl_0000_1">
+        <From>
+          <StopPointRef>2800S22043E</StopPointRef>
+        </From>
+        <To>
+          <StopPointRef>2800S42042C</StopPointRef>
+        </To>
+      </RouteLink>
+    </RouteSection>
+  </RouteSections>
+  <Routes>
+    <Route id="rt_0000">
+      <Description>No route description available</Description>
+      <RouteSectionRef>rsf_0000</RouteSectionRef>
+    </Route>
+  </Routes>
+  <JourneyPatternSections>
+    <JourneyPatternSection id="js_1">
+      <JourneyPatternTimingLink id="jptl_1">
+        <From SequenceNumber="1">
+          <Activity>pickUp</Activity>
+          <StopPointRef>2800S22043E</StopPointRef>
+          <TimingStatus>principalTimingPoint</TimingStatus>
+        </From>
+        <To SequenceNumber="2">
+          <Activity>setDown</Activity>
+          <StopPointRef>2800S42042C</StopPointRef>
+          <TimingStatus>principalTimingPoint</TimingStatus>
+        </To>
+        <RouteLinkRef>rl_0000_1</RouteLinkRef>
+        <RunTime>PT8M</RunTime>
+      </JourneyPatternTimingLink>
+    </JourneyPatternSection>
+  </JourneyPatternSections>
+  <Operators>
+    <Operator id="tkt_oid">
+      <NationalOperatorCode>AMSY</NationalOperatorCode>
+      <OperatorCode>ANW</OperatorCode>
+      <OperatorShortName>Arriva Merseyside</OperatorShortName>
+      <LicenceNumber>PC0001141</LicenceNumber>
+    </Operator>
+  </Operators>
+  <Services>
+    <Service>
+      <ServiceCode>PC0001141:32</ServiceCode>
+      <Lines>
+        <Line id="AMSY:PC0001141:32:487">
+          <LineName>487</LineName>
+          <OutboundDescription>
+            <Description>Ness Gardens and Parkgate to Liverpool</Description>
+          </OutboundDescription>
+          <InboundDescription>
+            <Description>Liverpool to Ness Gardens and Parkgate</Description>
+          </InboundDescription>
+        </Line>
+      </Lines>
+      <OperatingPeriod>
+        <StartDate>2026-01-04</StartDate>
+      </OperatingPeriod>
+      <OperatingProfile>
+        <RegularDayType>
+          <DaysOfWeek>
+            <Sunday />
+          </DaysOfWeek>
+        </RegularDayType>
+        <BankHolidayOperation>
+          <DaysOfOperation>
+            <GoodFriday />
+            <LateSummerBankHolidayNotScotland />
+            <MayDay />
+            <EasterMonday />
+            <SpringBank />
+            <ChristmasDayHoliday />
+            <BoxingDayHoliday />
+            <NewYearsDayHoliday />
+          </DaysOfOperation>
+          <DaysOfNonOperation>
+            <ChristmasDay />
+            <BoxingDay />
+            <NewYearsDay />
+            <ChristmasEve />
+            <NewYearsEve />
+          </DaysOfNonOperation>
+        </BankHolidayOperation>
+      </OperatingProfile>
+      <RegisteredOperatorRef>tkt_oid</RegisteredOperatorRef>
+      <PublicUse>true</PublicUse>
+      <StandardService>
+        <Origin>Ness Gardens and Parkgate</Origin>
+        <Destination>Liverpool</Destination>
+        <JourneyPattern id="jp_1">
+          <DestinationDisplay>Hood street</DestinationDisplay>
+          <OperatorRef>tkt_oid</OperatorRef>
+          <Direction>inbound</Direction>
+          <RouteRef>rt_0000</RouteRef>
+          <JourneyPatternSectionRefs>js_1</JourneyPatternSectionRefs>
+        </JourneyPattern>
+      </StandardService>
+    </Service>
+  </Services>
+  <VehicleJourneys>
+    <VehicleJourney>
+      <OperatorRef>tkt_oid</OperatorRef>
+      <Operational>
+        <TicketMachine>
+          <JourneyCode>5002</JourneyCode>
+        </TicketMachine>
+      </Operational>
+      <VehicleJourneyCode>vj_1</VehicleJourneyCode>
+      <ServiceRef>PC0001141:32</ServiceRef>
+      <LineRef>AMSY:PC0001141:32:487</LineRef>
+      <JourneyPatternRef>jp_1</JourneyPatternRef>
+      <DepartureTime>09:15:00</DepartureTime>
+    </VehicleJourney>
+  </VehicleJourneys>
+</TransXChange>
