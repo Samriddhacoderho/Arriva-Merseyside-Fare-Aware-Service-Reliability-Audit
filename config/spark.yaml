@@ -1,0 +1,13 @@
+spark.app.name: merseyside_reliability_audit
+spark.master: local[*]
+spark.driver.memory: 4g
+spark.sql.shuffle.partitions: 8
+spark.default.parallelism: 8
+spark.sql.adaptive.enabled: true
+
+min_dataframe_partitions: 4
+cache_strategy: cache analytical tables before iterative ML
+repartition_strategy: repartition(8) after large XML flatten / joins
+
+large_scale_processing: PySpark
+final_plots: convert Spark aggregates to Pandas then matplotlib
