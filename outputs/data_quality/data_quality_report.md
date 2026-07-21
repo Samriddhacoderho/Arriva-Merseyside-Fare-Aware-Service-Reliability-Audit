@@ -10,9 +10,9 @@ After Phase 1 ingest.
 
 ## `timetable_schedule_events` — 769,705 rows
 
-## `avl_vehicle_activities` — 100,064 rows
-- null `origin_aimed_departure_time`: 10.76%
-- null `destination_aimed_arrival_time`: 10.76%
+## `avl_vehicle_activities` — 279,198 rows
+- null `origin_aimed_departure_time`: 13.67%
+- null `destination_aimed_arrival_time`: 13.67%
 
 ## `fares_files` — 861 rows
 - null `fare_amount_min`: 0.23%
@@ -29,4 +29,4 @@ After Phase 1 ingest.
 - null `expected_delay_minutes`: 1.23%
 
 **Scale PASS:** schedule_events = 769,705 rows (>= 100k)
-**Combined rows:** 893,879
+**Combined rows:** 1,073,013

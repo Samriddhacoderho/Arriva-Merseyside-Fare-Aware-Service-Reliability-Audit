@@ -1,0 +1,8 @@
+table,row_count,num_partitions
+schedule_events,769705,8
+vehicle_journeys,15775,4
+stops,4870,4
+services,516,4
+avl,279198,8
+fares_proxy,63,4
+disruptions,2025,8
