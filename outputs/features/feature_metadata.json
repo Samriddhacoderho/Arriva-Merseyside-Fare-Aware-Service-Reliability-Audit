@@ -1,0 +1,39 @@
+{
+  "n_rows": 1421,
+  "cat_cols": [
+    "line_key",
+    "direction_ref",
+    "operator_ref",
+    "fare_band",
+    "fare_proxy_source",
+    "primary_disruption_reason",
+    "primary_disruption_severity"
+  ],
+  "num_cols": [
+    "hour_of_day",
+    "day_of_week",
+    "is_peak",
+    "n_obs",
+    "used_near_departure_ping",
+    "has_txc_line_match",
+    "has_fare_match",
+    "fare_imputed",
+    "direction_missing",
+    "fare_proxy",
+    "has_disruption",
+    "disruption_severity_score",
+    "n_disruption_matches",
+    "had_planned_disruption",
+    "had_real_merseytravel_disruption",
+    "disruption_expected_delay_avg",
+    "schedule_imputed",
+    "scheduled_trip_minutes",
+    "gps_missing",
+    "latitude",
+    "longitude",
+    "hist_line_noncompliance_rate",
+    "hist_line_delay_mean",
+    "hist_line_delay_std",
+    "hist_line_n_prior"
+  ]
+}
