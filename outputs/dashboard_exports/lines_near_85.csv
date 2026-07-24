@@ -1,0 +1,2 @@
+line_key,operator_ref,n_journeys,n_compliant,avg_delay_minutes,std_delay_minutes,service_reliability,below_85_threshold,gap_to_85,status,near_85
+2,ANWE,130,104,4.796923076923076,22.483523854035525,0.8,1,0.04999999999999993,below_85,1

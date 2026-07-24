@@ -1,0 +1,17 @@
+{
+  "best_model": {
+    "model_name": "GBT",
+    "accuracy": 0.7707865168539326,
+    "precision_score": 0.7905191212672714,
+    "recall_score": 0.7707865168539325,
+    "f1": 0.7580870317258808,
+    "roc_auc": 0.8347738672636074,
+    "train_seconds": 15.530381679534912,
+    "f1_per_second": 0.04881316167038228,
+    "best_params": "maxDepth=3, stepSize=0.1",
+    "notes": "CrossValidator on train; metrics on held-out test"
+  },
+  "selection_rule": "highest F1, then ROC-AUC, then F1/sec",
+  "n_train": 976,
+  "n_test": 445
+}

@@ -1,0 +1,23 @@
+- Trips scored: **1421**
+- Lines below 85%: **17**
+- Total hypothetical exposure: **1073.29**
+- Mean P(non-compliant): **0.417**
+
+## Lines below 85%
+- Line **P10**: reliability=0.0%, n=3
+- Line **P2**: reliability=0.0%, n=12
+- Line **P5**: reliability=0.0%, n=25
+- Line **P14**: reliability=0.0%, n=8
+- Line **P12**: reliability=0.0%, n=4
+- Line **20A**: reliability=30.0%, n=10
+- Line **20**: reliability=33.3%, n=9
+- Line **3C**: reliability=41.9%, n=31
+- Line **3A**: reliability=48.1%, n=27
+- Line **79C**: reliability=52.3%, n=323
+- Line **61**: reliability=52.8%, n=106
+- Line **82A**: reliability=56.4%, n=227
+- Line **X30**: reliability=58.8%, n=80
+- Line **110**: reliability=58.8%, n=182
+- Line **X4**: reliability=67.6%, n=111
+- Line **1**: reliability=74.4%, n=133
+- Line **2**: reliability=80.0%, n=130
