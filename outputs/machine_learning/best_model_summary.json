@@ -6,8 +6,8 @@
     "recall_score": 0.7707865168539325,
     "f1": 0.7580870317258808,
     "roc_auc": 0.8347738672636074,
-    "train_seconds": 15.530381679534912,
-    "f1_per_second": 0.04881316167038228,
+    "train_seconds": 19.867499113082886,
+    "f1_per_second": 0.038157144359788855,
     "best_params": "maxDepth=3, stepSize=0.1",
     "notes": "CrossValidator on train; metrics on held-out test"
   },

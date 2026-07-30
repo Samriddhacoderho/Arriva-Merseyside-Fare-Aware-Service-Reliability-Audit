@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.OneHotEncoderModel","timestamp":1785426649186,"sparkVersion":"4.1.1","uid":"OneHotEncoder_a29e7c89117f","paramMap":{"handleInvalid":"keep","inputCol":"fare_proxy_source_idx","outputCol":"fare_proxy_source_ohe"},"defaultParamMap":{"dropLast":true,"handleInvalid":"error","outputCol":"OneHotEncoder_a29e7c89117f__output"}}

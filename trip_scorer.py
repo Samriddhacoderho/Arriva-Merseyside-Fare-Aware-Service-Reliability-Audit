@@ -1,9 +1,3 @@
-"""
-Spark-backed GBT scenario scorer for the Streamlit viva demo.
-
-Uses the same Phase 4 feature pipeline + saved Phase 6 GBT model as the notebook.
-First load takes ~10–20s (Spark startup + pipeline fit or load).
-"""
 from __future__ import annotations
 
 import json
