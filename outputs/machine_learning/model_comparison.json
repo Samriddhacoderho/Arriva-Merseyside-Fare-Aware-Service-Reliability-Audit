@@ -6,8 +6,8 @@
     "recall_score": 0.7393258426966292,
     "f1": 0.7205966427520187,
     "roc_auc": 0.7942627368071964,
-    "train_seconds": 22.278273105621338,
-    "f1_per_second": 0.03234526479389442,
+    "train_seconds": 21.961963176727295,
+    "f1_per_second": 0.03281112152649551,
     "best_params": "regParam=0.01, elasticNetParam=0.0",
     "notes": "CrossValidator on train; metrics on held-out test"
   },
@@ -18,8 +18,8 @@
     "recall_score": 0.7707865168539325,
     "f1": 0.7536350251840371,
     "roc_auc": 0.8132902209509596,
-    "train_seconds": 10.249180793762207,
-    "f1_per_second": 0.07353124511597159,
+    "train_seconds": 13.003628015518188,
+    "f1_per_second": 0.05795575083235762,
     "best_params": "numTrees=40, maxDepth=5",
     "notes": "CrossValidator on train; metrics on held-out test"
   },
@@ -30,8 +30,8 @@
     "recall_score": 0.7707865168539325,
     "f1": 0.7580870317258808,
     "roc_auc": 0.8347738672636074,
-    "train_seconds": 19.867499113082886,
-    "f1_per_second": 0.038157144359788855,
+    "train_seconds": 18.897026777267456,
+    "f1_per_second": 0.040116735858036476,
     "best_params": "maxDepth=3, stepSize=0.1",
     "notes": "CrossValidator on train; metrics on held-out test"
   }

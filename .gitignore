@@ -1,1 +1,28 @@
 datasets/disruptions/overall_data_catalogue.csv
+# Secrets
+.env
+**/bods_api_key*
+**/*api_key*
+
+# OS / IDE
+.DS_Store
+.idea/
+.vscode/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Spark / Java
+spark-warehouse/
+metastore_db/
+derby.log
+
+# Large local raw downloads (keep processed outputs optional)
+# Uncomment if repo size is an issue:
+# datasets/timetable/
+# datasets/fares/
+# datasets/location/snapshots/
+
