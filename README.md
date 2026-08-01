@@ -254,7 +254,7 @@ flowchart LR
 # Highlights
 
 - Self-contained multi-phase Big Data notebook (no `src/` package required)
-- ~**1.07 million** multi-source landing rows (~**10.7 lakh**) ingested to Parquet
+- **1.07 million** multi-source landing rows (~**10.7 lakh**) ingested to Parquet
 - PySpark evidence: repartition, cache, broadcast joins, Spark SQL peeks
 - ±2 minute journey compliance labelling + 85% line reliability audit
 - Typed missing-data policy (structural zeros · network median fares · history priors · missingness flags)
