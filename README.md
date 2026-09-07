@@ -1,9 +1,7 @@
 <div align="center">
 
-# ST5011CEM Big Data Programming Project
 ### **Arriva Merseyside Fare-Aware Service Reliability Audit**
 ### Samriddha Raj Satyal
-### Coventry University ID: 15940432
 
 <p align="center">
 
@@ -21,9 +19,6 @@
 
 ---
 
-### BSc. (Hons) in Computer Science with AI
-### **Coventry University**
-### **Softwarica College of IT and E-Commerce**
 
 **Programming Language:** Python  
 **Big Data Engine:** Apache Spark (PySpark)  
@@ -591,6 +586,6 @@ Upon completion, the following competencies were developed:
 
 <div align="center">
 
-**ST5011CEM · Arriva Merseyside Fare-Aware Service Reliability Audit**  
-Samriddha Raj Satyal · 15940432 · Softwarica College / Coventry University
+**Arriva Merseyside Fare-Aware Service Reliability Audit**  
+Samriddha Raj Satyal · [Linkedin](https://www.linkedin.com/in/samriddha-r-satyal-855b66287/) · satyalsamriddha@gmail.com
 </div>
